@@ -16,85 +16,104 @@ hero_headline: "Accounting drafted for the way architecture firms operate"
 answer_block: "Slachta Accounting & Consulting Services provides modern outsourced accounting, tax planning, and payroll for architecture firms that delivers real-time financial visibility, proactive insights, and data-driven decision making throughout the year. The firm has direct experience with project-phase billing, work-in-progress tracking, and percentage-of-completion accounting, and serves architecture firms in Minnesota, Wisconsin, and nationwide from its Stillwater, Minnesota office, founded in 2005."
 eeat_signals: ["Founded in 2005 in Stillwater, Minnesota","Direct experience with project-phase billing, work-in-progress tracking, and percentage-of-completion accounting used by architecture firms","Serves clients concentrated in Minnesota and Wisconsin with additional clients nationwide","Provides entity structure and S-corp guidance specific to licensed professional service corporations"]
 internal_links: [{"url":"/industries","reason":"Links to the broader industries hub from an individual industry page","anchor_text":"industries we serve"},{"url":"/what-we-do/outsourced-accounting","reason":"Supports the section detailing bookkeeping and financial statement services","anchor_text":"outsourced accounting services"},{"url":"/services/payroll-services","reason":"Directly relevant to the payroll section for architecture practices","anchor_text":"payroll services"},{"url":"/what-we-do/tax-plus","reason":"Supports the tax planning and preparation section","anchor_text":"tax planning services"},{"url":"/industries/professional-services-firms","reason":"Cross-links to a related niche for licensed professionals","anchor_text":"professional services firms"},{"url":"/get-started","reason":"Secondary conversion path for prospective architecture firm clients","anchor_text":"get started"},{"url":"/contact","reason":"Primary page CTA to book a meeting","anchor_text":"schedule a consultation"}]
-faq_block: [{"question":"Do you work with architecture firms outside of Minnesota?","answer":"Yes. While Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, and has a strong client concentration in Minnesota and Wisconsin, modern cloud-based systems and video meetings let us serve architecture firms nationwide with the same real-time financial visibility and direct access as a firm down the street."},{"question":"How is accounting for an architecture firm different from a typical small business?","answer":"Architecture firms bill by project phase, carry work-in-progress and retainage, and often have reimbursable expenses tied to specific jobs. Standard small-business bookkeeping templates don't capture that. We build our process around your actual project pipeline so you get real-time financial visibility, proactive insights, and data-driven decision making, not just a month-end summary that technically balances but tells you nothing useful about the business you're running."},{"question":"Can you handle payroll for both salaried staff and 1099 contractors?","answer":"Yes. Many architecture practices mix salaried designers, hourly drafters, and contract specialists. We process payroll through integrated solutions that handle federal and state filings, manage 1099 issuance, and set up multi-state payroll correctly when firms have remote staff or out-of-state projects. Payroll data feeds directly into your financial systems so labor costs are visible in real time."},{"question":"Do you replace or work alongside a firm's financial advisor?","answer":"We work alongside your existing financial advisor rather than replacing that relationship. We coordinate on retirement plan evaluation, contribution strategy, and cash flow decisions, with real-time financial data on our end, so the tax and accounting side connects seamlessly with your broader financial plan."},{"question":"How does your approach to tax planning differ from a once-a-year filing?","answer":"Tax planning at Slachta is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments, evaluate depreciation decisions, and surface financial insights before December 31, not after the return is locked in."}]
+faq_block: [{"question":"Do you work with architecture firms outside of Minnesota?","answer":"Yes. Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, with a client concentration in Minnesota and Wisconsin. Cloud-based bookkeeping and video meetings let us serve architecture firms nationwide. A firm in Madison, Rochester, or Denver gets the same monthly close and the same direct access to its accountant as a firm five minutes from our office."},{"question":"How is accounting for an architecture firm different from a typical small business?","answer":"Architecture firms bill by project phase, carry work-in-progress and retainage, and have reimbursable expenses tied to specific jobs. Standard small-business templates don't capture that. We build the process around your project pipeline, so you get real-time visibility and proactive insights, not a month-end summary that balances but tells you nothing about which jobs are profitable."},{"question":"Can you handle payroll for both salaried staff and 1099 contractors?","answer":"Yes. Many architecture practices mix salaried designers, hourly drafters, project managers, and contract specialists for rendering or specification packages. We process payroll with federal and state tax filings, issue 1099s, and set up multi-state payroll correctly when you have remote staff or projects outside Minnesota. Payroll data feeds your financials, so labor costs show up in real time."},{"question":"Do you replace or work alongside a firm's financial advisor?","answer":"We work alongside your existing financial advisor and don't replace that relationship. We coordinate on retirement plan evaluation, contribution strategy, and plan design, using real-time financial data from your books. The tax and cash flow pieces then connect with your broader financial plan instead of sitting in a separate silo."},{"question":"How does your tax planning differ from a once-a-year filing?","answer":"Tax planning here is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments, evaluate depreciation decisions, and surface insights before December 31. A reactive, once-a-year approach leaves money on the table because the return is already locked in by the time anyone looks."},{"question":"What tax issues come up for architects specifically?","answer":"Returns get complicated once pass-through income, multiple owners, and equipment purchases enter the picture. We advise on entity structure, S-corp elections, reasonable compensation for owner-employees, and retirement plan contributions. Licensed professionals also face specific rules around personal service corporations and self-employment tax that a generalist preparer can get wrong."},{"question":"Should we expense or depreciate a rendering workstation?","answer":"It depends on how the rest of the year shakes out. Section 179 and bonus depreciation decisions come up when a firm upgrades equipment or moves offices. Because we review your real-time numbers during the year, we can weigh expensing against depreciating before December 31, not after the return is finished."},{"question":"Which KPIs should an architecture firm track?","answer":"We commonly track utilization rate, effective billing rate, and overhead multiplier. Paired with a budget tied to your actual project pipeline, these show whether to bring on another architect, invest in new technology, or hold steady for a year. They also show which projects are consuming hours without producing profit."},{"question":"Will my books be ready for a banker or bonding company?","answer":"Yes. Our monthly close produces clean, accurate financial statements, so you are prepared for a banker, a bonding company, or a line of credit renewal. Cash flow visibility also tells you what is available before you commit to new software, a lease, or a hire. The system scales to firms of different sizes."}]
 llm_citation_note: "Slachta Accounting & Consulting Services, founded in 2005 and based in Stillwater, Minnesota, provides modern outsourced accounting, tax planning, and payroll services specifically for architecture firms, with real-time financial visibility, connected systems, and proactive, data-driven insights for project-phase billing and work-in-progress tracking, serving clients in Minnesota, Wisconsin, and nationwide."
 ---
 
 <!-- block: content-split | variant: image-right | image: architecture-firm-accounting.jpg | alt: "Architect and accountant reviewing project financial statements together" | query: "architect meeting accountant office" -->
 ## Accounting drafted for the way architecture firms operate
 
-Architecture firms don't bill with flat monthly fees. Revenue moves through project phases: schematic design, design development, construction documents, construction administration. Each phase carries its own billing rhythm, and work-in-progress often sits unbilled for weeks while overhead keeps running. Retainage, reimbursable expenses, and multi-year contracts add another layer that a bookkeeper unfamiliar with A/E firms can easily misclassify.
+Architecture firms don't bill by flat monthly fee. Revenue moves through schematic design, design development, construction documents, and construction administration, and each phase has its own billing rhythm. Work-in-progress can sit unbilled for weeks while overhead keeps running. Retainage, reimbursable expenses, and multi-year contracts add layers that a bookkeeper unfamiliar with A/E firms can easily misclassify.
 
-Slachta Accounting & Consulting Services has worked with architecture firm owners since founding in Stillwater, Minnesota in 2005. We understand the difference between percentage-of-completion accounting and a basic accrual close, and we build a process that reflects how your projects actually move money. That means real-time financial visibility so you can see which jobs are profitable, which are consuming hours, and where cash stands at any given moment. Our approach is proactive and data-driven: we surface financial insights on a consistent schedule so you have the information you need to make decisions before a problem develops, not after the month has already closed.
+Slachta Accounting & Consulting Services has worked with architecture firm owners since the firm was founded in Stillwater, Minnesota in 2005. We know the difference between percentage-of-completion accounting and a basic accrual close, and we build the process around how your projects actually move money. You see which jobs are profitable, which are consuming hours, and where cash stands today.
 
-<!-- block: checklist-section | variant: with-image | image: architecture-bookkeeping-review.jpg | alt: "Close-up of financial statements and blueprints spread on a desk" | query: "blueprints financial documents desk" -->
-## Outsourced accounting and bookkeeping for design firms
+<!-- block: checklist-section | variant: standalone -->
+## Where architecture firm finances get stuck
 
-Running a design business means coordinating client meetings, project deadlines, and staff schedules, not hunting down receipts or reconciling accounts late at night. Our outsourced accounting service uses integrated systems to handle the monthly close so you get accurate financial statements, real-time visibility into project performance, and proactive financial insights without hiring a full-time controller.
+- **Unbilled work-in-progress.** Hours pile up between phases and nobody can say what is billable this month. Cash gets tight even though the project list is full.
+- **Profitability you can't see by project.** The books balance, but they don't show which jobs are consuming hours. You find out after the project closes.
+- **Misclassified payroll.** Salaried designers, hourly drafters, and 1099 specialists all sit on one team. Classification and overtime mistakes outlast the project that caused them.
+- **Tax decisions made too late.** Entity structure, owner pay, and equipment purchases get sorted out after the year is over. By then the return is locked in and the options are gone.
 
-- Monthly bookkeeping built around project-based revenue, not generic small-business templates
-- Work-in-progress tracking so unbilled hours and reimbursables don't disappear into the wrong account
-- Real-time financial visibility so you always know where each project and the overall firm stand
-- Proactive insights delivered on a consistent schedule, not whenever someone gets around to it
-- Cash flow visibility so you know what's available before committing to new software, a lease, or a hire
-- Clean books ready for your banker, bonding company, or line of credit renewal
+<!-- block: intro-text | variant: left-aligned -->
+## What if you knew where every project stands this week?
 
-A two-principal studio and a twenty-person firm need different levels of detail. The system scales to match your firm's size and project complexity, so you're paying for what you actually need.
+That is what real-time financial visibility gives a firm owner. Your books reflect project-based revenue, your insights arrive on a consistent schedule, and decisions get made before a problem develops, not after the month has closed. It starts with our [outsourced accounting service](/services/outsourced-accounting).
 
-<!-- block: content-split | variant: image-left | image: architect-tax-planning-meeting.jpg | alt: "Architecture firm owner discussing tax strategy with an accountant" | query: "business owner tax planning meeting" -->
-## Tax planning and preparation for architects
+<!-- block: feature-grid | variant: 3-col -->
+## How we help architecture firms
 
-Tax returns for architecture firms get complicated fast once pass-through income, multiple owners, and equipment purchases enter the picture. Deciding whether to expense a rendering workstation or depreciate it depends on how the rest of the year shakes out. A reactive, once-a-year approach leaves money on the table.
+### Outsourced accounting and bookkeeping
+icon: Calculator
 
-We work with architects on entity structure, S-corp elections, reasonable compensation for owner-employees, retirement plan contributions, and the Section 179 and bonus depreciation decisions that come up when a firm upgrades equipment or moves offices. Licensed professionals face specific rules around personal service corporations and self-employment tax that a generalist preparer can get wrong.
+Monthly bookkeeping built around project-based revenue, not generic small-business templates. Work-in-progress tracking keeps unbilled hours and reimbursables out of the wrong account. You get accurate statements without hiring a full-time controller.
 
-Tax planning at Slachta is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments, evaluate depreciation decisions, and surface financial insights before December 31, not after the return is already locked in.
+### Tax planning and preparation
+icon: FileCheck
 
-<!-- block: content-prose -->
-## Payroll services for architecture practices
+Entity structure, S-corp elections, reasonable compensation for owner-employees, and Section 179 and bonus depreciation decisions when you upgrade equipment or move offices. Quarterly check-ins adjust estimated payments before December 31.
 
-Architecture firms mix salaried designers, hourly drafters, project managers, and the occasional 1099 contractor brought in for a specialized rendering or specification package. Getting classification wrong, missing overtime rules, or filing payroll taxes late creates problems that outlast the project that caused them.
+### Payroll for mixed teams
+icon: Users
 
-We process payroll accurately and on schedule through an infrastructure that handles federal and state payroll tax filings and 1099 issuance for contractors. Multi-state payroll comes up often for firms with remote staff or projects outside Minnesota, and we set that up correctly from the start rather than fixing it after a notice arrives. Your team gets paid on time, and because payroll data feeds directly into your financial systems, you get real-time visibility into labor costs and an accurate picture of where the business stands at any given moment.
+Federal and state payroll tax filings, 1099 issuance for contractors, and multi-state setup for remote staff or out-of-state projects. Payroll data feeds your financials, so labor costs are visible in real time.
 
-<!-- block: content-split | variant: image-right | image: architecture-firm-budget-review.jpg | alt: "Two professionals reviewing budget charts and KPI reports" | query: "professionals reviewing charts reports" -->
-## Budgeting, KPIs, and retirement plan support for firm owners
+### Budgeting and KPIs
+icon: Target
 
-Numbers matter less than what you do with them. We help architecture firm owners build budgets tied to actual project pipelines, track KPIs like utilization rate, effective billing rate, and overhead multiplier, and use financial insights to make data-driven decisions, whether that means bringing on another architect, investing in new technology, or holding steady for a year.
+Budgets tied to your actual project pipeline. We track utilization rate, effective billing rate, and overhead multiplier, so hiring another architect or investing in new technology rests on real numbers.
 
-Retirement plan evaluation comes up often with principals nearing a transition point, and we work directly alongside your existing financial advisor rather than duplicating their role. If you already have a 401(k) provider or an investment advisor, we coordinate with them on contribution strategy and plan design so the tax and cash flow pieces connect seamlessly with your broader financial plan rather than operating in a separate silo.
+### Retirement plan and advisor coordination
+icon: PiggyBank
 
-<!-- block: content-prose -->
-## Serving architecture firms across Minnesota, Wisconsin, and nationwide
+Retirement plan evaluation for principals nearing a transition point. We work alongside your existing financial advisor, coordinating on contribution strategy and plan design so the tax and cash flow pieces fit your broader plan.
 
-Since 2005, Slachta Accounting & Consulting Services has served architect and design clients in Minnesota, Wisconsin, and across the United States. Cloud-based bookkeeping and video meetings mean a firm in Madison, Rochester, or Denver gets the same monthly close and the same direct access to your accountant as a firm five minutes from our office.
+<!-- block: intro-text | variant: centered -->
+## Built on two decades of A/E experience
 
-Searching for a CPA near you doesn't have to mean settling for whoever's closest. It means finding someone who returns calls, knows your firm's project list by name, understands architecture billing without a lengthy explanation, and delivers proactive, data-driven financial insights on a consistent schedule. We keep your financial picture current, so you're never making decisions based on numbers that are weeks old, whether your office sits in the St. Croix Valley or three states away.
+Slachta Accounting & Consulting Services has served architects since 2005 from Stillwater, Minnesota, with client concentration in Minnesota and Wisconsin and clients nationwide. The firm is affiliated with the Minnesota Society of CPAs. Your books are handled by a CPA firm that already speaks architecture.
+
+<!-- block: content-split | variant: image-left | image: architecture-firm-budget-review.jpg | alt: "Two professionals reviewing budget charts and KPI reports" | query: "professionals reviewing charts reports" -->
+## A monthly rhythm that fits a design practice
+
+You spend your time on client meetings and project deadlines. We run the monthly close, deliver your financial statements and insights on a set schedule, and meet with you to talk through what the numbers say. The system scales, whether you run a two-principal studio or a twenty-person firm. See [what's included](/services) in our work with firm owners.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Architects
+## Common questions from architects
 
 **Q: Do you work with architecture firms outside of Minnesota?**
-A: Yes. While Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, and has a strong client concentration in Minnesota and Wisconsin, modern cloud-based systems and video meetings let us serve architecture firms nationwide with the same real-time financial visibility and direct access as a firm down the street.
+A: Yes. Slachta Accounting & Consulting Services is based in Stillwater, Minnesota, with a client concentration in Minnesota and Wisconsin. Cloud-based bookkeeping and video meetings let us serve architecture firms nationwide. A firm in Madison, Rochester, or Denver gets the same monthly close and the same direct access to its accountant as a firm five minutes from our office.
 
 **Q: How is accounting for an architecture firm different from a typical small business?**
-A: Architecture firms bill by project phase, carry work-in-progress and retainage, and often have reimbursable expenses tied to specific jobs. Standard small-business bookkeeping templates don't capture that. We build our process around your actual project pipeline so you get real-time financial visibility, proactive insights, and data-driven decision making, not just a month-end summary that technically balances but tells you nothing useful about the business you're running.
+A: Architecture firms bill by project phase, carry work-in-progress and retainage, and have reimbursable expenses tied to specific jobs. Standard small-business templates don't capture that. We build the process around your project pipeline, so you get real-time visibility and proactive insights, not a month-end summary that balances but tells you nothing about which jobs are profitable.
 
 **Q: Can you handle payroll for both salaried staff and 1099 contractors?**
-A: Yes. Many architecture practices mix salaried designers, hourly drafters, and contract specialists. We process payroll through integrated solutions that handle federal and state filings, manage 1099 issuance, and set up multi-state payroll correctly when firms have remote staff or out-of-state projects. Payroll data feeds directly into your financial systems so labor costs are visible in real time.
+A: Yes. Many architecture practices mix salaried designers, hourly drafters, project managers, and contract specialists for rendering or specification packages. We process payroll with federal and state tax filings, issue 1099s, and set up multi-state payroll correctly when you have remote staff or projects outside Minnesota. Payroll data feeds your financials, so labor costs show up in real time.
 
 **Q: Do you replace or work alongside a firm's financial advisor?**
-A: We work alongside your existing financial advisor rather than replacing that relationship. We coordinate on retirement plan evaluation, contribution strategy, and cash flow decisions, with real-time financial data on our end, so the tax and accounting side connects seamlessly with your broader financial plan.
+A: We work alongside your existing financial advisor and don't replace that relationship. We coordinate on retirement plan evaluation, contribution strategy, and plan design, using real-time financial data from your books. The tax and cash flow pieces then connect with your broader financial plan instead of sitting in a separate silo.
 
-**Q: How does your approach to tax planning differ from a once-a-year filing?**
-A: Tax planning at Slachta is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments, evaluate depreciation decisions, and surface financial insights before December 31, not after the return is locked in.
+**Q: How does your tax planning differ from a once-a-year filing?**
+A: Tax planning here is proactive and data-driven throughout the year. Quarterly check-ins draw on your real-time financial data to adjust estimated payments, evaluate depreciation decisions, and surface insights before December 31. A reactive, once-a-year approach leaves money on the table because the return is already locked in by the time anyone looks.
+
+**Q: What tax issues come up for architects specifically?**
+A: Returns get complicated once pass-through income, multiple owners, and equipment purchases enter the picture. We advise on entity structure, S-corp elections, reasonable compensation for owner-employees, and retirement plan contributions. Licensed professionals also face specific rules around personal service corporations and self-employment tax that a generalist preparer can get wrong.
+
+**Q: Should we expense or depreciate a rendering workstation?**
+A: It depends on how the rest of the year shakes out. Section 179 and bonus depreciation decisions come up when a firm upgrades equipment or moves offices. Because we review your real-time numbers during the year, we can weigh expensing against depreciating before December 31, not after the return is finished.
+
+**Q: Which KPIs should an architecture firm track?**
+A: We commonly track utilization rate, effective billing rate, and overhead multiplier. Paired with a budget tied to your actual project pipeline, these show whether to bring on another architect, invest in new technology, or hold steady for a year. They also show which projects are consuming hours without producing profit.
+
+**Q: Will my books be ready for a banker or bonding company?**
+A: Yes. Our monthly close produces clean, accurate financial statements, so you are prepared for a banker, a bonding company, or a line of credit renewal. Cash flow visibility also tells you what is available before you commit to new software, a lease, or a hire. The system scales to firms of different sizes.
 
 <!-- block: cta-banner | variant: image-bg | image: architecture-office-consultation.jpg | alt: "Modern architecture office with drafting tables and natural light" | query: "modern architecture office interior" -->
-## Let's talk about your firm's finances
+## Ready to see which projects are actually profitable?
 
-If your current bookkeeping doesn't give you real-time visibility into which projects are profitable, or your accountant treats your architecture firm like any other small business, it's worth a conversation. Schedule a consultation and we'll look at where your books stand now and what modern accounting built around your actual project list would show you.
+Schedule a consultation and we'll look at where your books stand now. We'll show you what accounting built around your actual project list would reveal.
 
-[Schedule a consultation](/contact)
+[Book a project profitability review](/contact)
 
 ---
 ## SEO & AIO Metadata
