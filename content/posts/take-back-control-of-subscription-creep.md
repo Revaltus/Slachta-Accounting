@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/take-back-control-of-subscri
 schema_markup: "FAQPage"
 answer_block: "Subscription creep is the gradual buildup of small recurring charges, personal or business, that go unreviewed until they represent a real budget line. Fixing it requires pulling 90 days of statements, sorting every charge by necessity, and building a quarterly review into your regular budget routine rather than treating it as a one-time cleanup."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 A dental practice owner in Hudson, Wisconsin sat down with our team last spring to review her books and found fourteen active software subscriptions tied to her business checking account. Three she didn't recognize. Two were tools her office manager had trialed two years earlier and never canceled. The total came to $612 a month, or roughly $7,344 a year, leaving her account before she ever looked at a profit and loss statement. That's subscription creep: the slow accumulation of recurring charges that feels harmless individually but adds up to a real line item nobody planned for.
 
 Individuals aren't immune either. Streaming platforms, meal kits, cloud storage upgrades, fitness apps, and free trials that convert to paid plans after 14 days all chip away at monthly cash flow in amounts too small to trigger alarm. The problem isn't any single $12.99 charge. It's the volume, and the fact that nobody reviews the full list until something forces the question, like a tight month or a year-end tax meeting.
