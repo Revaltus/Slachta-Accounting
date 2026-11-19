@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/auto-leasing-vs-buying-which
 schema_markup: "FAQPage"
 answer_block: "Whether to lease or buy a car depends on your annual mileage, how long you keep vehicles, and your tax situation. Buying a business vehicle often allows a Section 179 deduction and full ownership after the loan is paid off, while leasing offers lower monthly payments and a business-use percentage deduction but comes with mileage limits and no equity at the end."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 Should your practice lease the new SUV or buy it outright? The dealership finance guy has an answer. So does the accountant down the street. So does a cousin who swears by one or the other. Most of that advice ignores the two things that actually matter: your cash flow pattern and how the vehicle interacts with your tax return. Get those two right and the decision usually becomes obvious.
 
 This isn't a post about which option is cheaper in a vacuum. Leasing and buying solve different problems. The right call depends on whether you drive 8,000 miles a year or 30,000, whether the vehicle sits on a business balance sheet or your personal one, and whether you'd rather have a predictable payment or an asset you can sell in five years.
