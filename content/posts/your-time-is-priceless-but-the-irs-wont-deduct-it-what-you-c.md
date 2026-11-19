@@ -80,16 +80,12 @@ If you're managing this alongside a business, the same habits that keep your com
 
 ## Common Questions
 
-**Can I deduct the value of professional services I donate for free?**
-No. The IRS specifically disallows a deduction for the value of your time or services, regardless of your normal hourly rate. Only unreimbursed out-of-pocket costs directly connected to the volunteer work are deductible, per IRS Publication 526.
+**Can I deduct the value of professional services I donate for free?** No. The IRS specifically disallows a deduction for the value of your time or services, regardless of your normal hourly rate. Only unreimbursed out-of-pocket costs directly connected to the volunteer work are deductible, per IRS Publication 526.
 
-**What mileage rate do I use for volunteer driving?**
-The charitable mileage rate is 14 cents per mile, a fixed statutory rate that hasn't changed since 1997. Alternatively, you can deduct actual gas and oil costs for the trips, but not depreciation, insurance, or repairs.
+**What mileage rate do I use for volunteer driving?** The charitable mileage rate is 14 cents per mile, a fixed statutory rate that hasn't changed since 1997. Alternatively, you can deduct actual gas and oil costs for the trips, but not depreciation, insurance, or repairs.
 
-**Do I need a receipt for every small volunteer expense?**
-You should keep records for everything, but a written acknowledgment from the organization becomes mandatory once your unreimbursed expenses for that organization total $250 or more in a year.
+**Do I need a receipt for every small volunteer expense?** You should keep records for everything, but a written acknowledgment from the organization becomes mandatory once your unreimbursed expenses for that organization total $250 or more in a year.
 
-**Does it matter if the nonprofit is officially registered?**
-Yes. Deductions only apply to contributions and expenses connected to a qualified organization. Verify status through the [IRS Charities & Nonprofits Resource Hub](https://www.irs.gov/charities-non-profits) before assuming a deduction applies.
+**Does it matter if the nonprofit is officially registered?** Yes. Deductions only apply to contributions and expenses connected to a qualified organization. Verify status through the [IRS Charities & Nonprofits Resource Hub](https://www.irs.gov/charities-non-profits) before assuming a deduction applies.
 
 If you volunteer regularly, sit on a nonprofit board, or want to know how charitable giving fits into your broader tax picture as a business owner, [contact us](/contact) and we'll walk through what actually applies to your situation.
