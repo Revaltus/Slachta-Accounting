@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/burnout-isnt-a-business-stra
 schema_markup: "FAQPage"
 answer_block: "Self-care for business owners is a financial safeguard, not an indulgence, because decision fatigue leads directly to missed fee updates, deferred hiring, and slipping cash flow. Building rest and recurring financial reviews into the operating plan protects the judgment that keeps a business solvent and growing."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 Picture a dental practice owner who hasn't taken a real day off in years. The hygiene schedule is a mess, a couple of insurance fee-schedule updates slip through and leave tens of thousands of dollars in underbilled claims, and the conversation about hiring an associate keeps getting pushed to next month. None of it comes from laziness or carelessness. It comes from exhaustion, and exhaustion quietly becomes the business's biggest operating risk.
 
 This pattern is common among dentists, attorneys, architects, and service-based business owners alike. The owner who skips vacations and works through weekends isn't always the most effective person in the room. They're often the one making the costliest decisions, because burnout doesn't announce itself. It shows up as a missed deadline, a bad hire, or a client contract signed without reading the fine print.
