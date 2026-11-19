@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/unless-its-working-for-you-y
 schema_markup: "FAQPage"
 answer_block: "A dog's care costs are only tax deductible in narrow cases: as a medical expense for a trained service animal assisting a diagnosed disability (IRS Publication 502), or as a business expense when the dog performs a documented function like guarding property or breeding for profit (IRS Publication 535). A dog kept for companionship or office morale doesn't qualify under either rule."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 A client called our Stillwater office last January, only half joking, and asked whether his golden retriever counted as a business expense because clients "really respond well to him" in the waiting room. It's a fair question, and it comes up more than you'd think, especially among dentists, insurance agents, and service-based business owners whose dogs genuinely do spend time at the office. The honest answer is almost always no. But almost isn't never, and the narrow cases where dog-related costs are legitimately deductible are worth understanding, both to claim what you're entitled to and to avoid a deduction that unravels under IRS scrutiny.
 
 The short version: the IRS treats your dog the same way it treats your couch or your kids' braces, as a personal expense, unless the animal is doing identifiable, documented work that meets specific legal standards. Petting a dog doesn't create a deduction. Neither does bringing one to the office because morale improves. What matters is function, documentation, and whether the expense is ordinary and necessary for the business or meets the medical-expense rules under the tax code.
