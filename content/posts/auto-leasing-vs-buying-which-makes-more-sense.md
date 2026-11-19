@@ -84,8 +84,8 @@ We walk clients through this exact framework as part of broader [advisory servic
 
 **Does Section 179 apply to leased vehicles?** No. Section 179 is a purchase-based deduction tied to ownership and depreciation. Leased vehicles are deducted through the business-use percentage of the lease payment instead, as detailed in [IRS Publication 946](https://www.irs.gov/publications/p946).
 
-**Is it better to buy a car through my business or personally**?It depends on business-use percentage, your entity type, and whether you want the deduction on the business return or your personal return. A vehicle used primarily for business and titled to the business generally supports a cleaner Section 179 claim, but the right structure depends on your specific tax situation.
+**Is it better to buy a car through my business or personally?** It depends on business-use percentage, your entity type, and whether you want the deduction on the business return or your personal return. A vehicle used primarily for business and titled to the business generally supports a cleaner Section 179 claim, but the right structure depends on your specific tax situation.
 
-**What happens if I go over my lease mileage limit**?You'll owe an overage fee, typically 15 to 30 cents per mile, billed when you return the vehicle. If you consistently drive more than 12,000-15,000 miles a year, that overage can erase the monthly savings leasing offered in the first place.
+**What happens if I go over my lease mileage limit?** You'll owe an overage fee, typically 15 to 30 cents per mile, billed when you return the vehicle. If you consistently drive more than 12,000-15,000 miles a year, that overage can erase the monthly savings leasing offered in the first place.
 
 The lease-versus-buy decision touches your tax return, your cash flow, and how you'll be using the vehicle three years from now. If you want to run the numbers against your actual business income and driving pattern before you sign anything, [contact us](/contact) and we'll walk through it together.
