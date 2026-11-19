@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/long-term-care-how-you-can-f
 schema_markup: "FAQPage"
 answer_block: "Long-term care planning costs are best managed through a blend of long-term care insurance, VA Aid and Attendance benefits for eligible veterans, and self-funding from earmarked savings, decided years before care is needed. A private nursing home room in Minnesota and Wisconsin commonly runs $90,000 to $120,000 a year, so most families need more than one funding source to cover a multi-year stay."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 A long-term care event doesn't send a warning text three years ahead of time. It shows up as a fall, a diagnosis, or a spouse who can no longer manage alone, and suddenly a family is choosing a memory care facility on a Tuesday afternoon with no plan for how to pay for it. We work with business owners, dentists, and attorneys across Minnesota and Wisconsin who have built substantial retirement accounts and real estate equity, and most of them have never run the numbers on what a two-year stay in assisted living would do to that plan. This isn't a topic to solve in a crisis. It's a funding decision, and like any funding decision, it works better when it's made years in advance with real numbers instead of guesses.
 
 ## What long-term care actually costs
