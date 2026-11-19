@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/do-the-math-behind-renting-v
 schema_markup: "FAQPage"
 answer_block: "Whether buying beats renting financially depends on your holding period, local appreciation, and what your down payment would earn if invested instead. Under about 4 years, renting and investing the difference usually wins due to transaction costs; over 7+ years in a stable market, buying typically builds more net worth."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 Renting versus buying gets treated like a personality test: are you a homeowner type or a renter type? That framing skips the only question that matters for your finances, which is whether buying builds more net worth than renting and investing the difference. This is a spreadsheet decision, not a lifestyle one, and it deserves the same discipline you'd apply to any five- or six-figure financial commitment.
 
 The math depends on your specific numbers: your local market, your interest rate, how long you'll stay, and what you'd otherwise do with the cash you're not putting into a down payment. Business owners we work with across Minnesota and Wisconsin ask us this question constantly, usually right after they've asked about retirement contributions or cash flow planning for the year. It's the same category of decision: a large, long-term allocation of cash that deserves more than a gut check.
