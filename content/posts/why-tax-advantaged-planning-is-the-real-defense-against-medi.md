@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/why-tax-advantaged-planning-
 schema_markup: "FAQPage"
 answer_block: "Planning for unexpected medical expenses means combining a cash reserve sized to your health plan's out-of-pocket maximum with tax-advantaged tools: maxing HSA contributions where eligible, using FSAs only for predictable costs, and tracking expenses closely enough to claim the itemized medical deduction (costs above 7.5% of AGI) when a bad year hits."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 Medical bills rarely show up on schedule. A torn ACL, a surprise diagnosis, a root canal that turns into a crown, and suddenly a family that was current on every bill is staring down a five-figure balance. The Federal Reserve's [Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm) has tracked this for years: a meaningful share of U.S. households say they'd have to borrow money, sell something, or simply not pay a surprise expense in the $400 range. Scale that up to a hospital stay or a specialist referral, and the gap between what people have set aside and what they owe gets dangerous fast. An emergency fund helps close that gap. It doesn't close the bigger one, which is the tax treatment of how you pay for care in the first place.
 
 Most of the advice on medical debt stops at "save three to six months of expenses." That's sound, but it's incomplete for anyone who itemizes deductions, runs a small business, or has access to a high-deductible health plan. The real defense against medical debt isn't a bigger cushion. It's using the tax code the way it's designed to be used, before the crisis hits.
