@@ -14,7 +14,7 @@ canonical_url: https://www.slachtacpa.com/resources/your-time-is-priceless-but-t
 schema_markup: "FAQPage"
 answer_block: "The IRS never lets you deduct the value of your time or services, but unreimbursed out-of-pocket costs connected to volunteer work, like mileage at 14 cents per mile, required uniforms, and travel away from home, are deductible if you itemize and keep proper records."
 ---
-*By Slachta Accounting & Consulting Services LLC, a Stillwater CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
 Every December, someone at a nonprofit board meeting in Stillwater says it out loud: "I should get some kind of tax break for all these hours." It's a reasonable thing to think. It's also wrong. The IRS draws a hard line between the value of your time and the money you actually spend doing the work, and that line trips up a lot of otherwise careful taxpayers, including business owners who serve on hospital foundations, bar association committees, or school boards alongside running their own practice.
 
