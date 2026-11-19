@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/insuring-where-it-counts-avo
 schema_markup: "FAQPage"
 answer_block: "The right amount of insurance coverage is the gap between your net worth (or business cash reserves) and the realistic dollar loss a specific risk could cause, not a generic multiple of income. Calculate that gap for each risk category, life, disability, liability, and property, and size coverage to close it rather than following a one-size-fits-all rule."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 Ask ten people [how much insurance they need](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl-2) and you'll get ten different lists: life insurance, disability, umbrella, general liability, cyber, key person. What you won't get is math. Insurance coverage isn't a shopping list, it's a risk-based calculation that starts with two numbers: what you're worth and what you'd lose if a specific bad event happened next Tuesday. Get those numbers right and the right coverage amounts fall out of the calculation. Skip them and you end up over-insured in places that don't matter and dangerously exposed in the ones that do.
 
 We see this pattern constantly with dentists, attorneys, architects, and service-business owners across Minnesota and Wisconsin. A dental practice owner carries a disability policy sized for a solo associate's income from ten years ago, while the practice itself has no buy-sell funding if a partner becomes permanently disabled. An insurance agency owner has excellent E&O coverage but no plan for what happens to cash flow if a key producer leaves with half the book. The policies exist. They're just aimed at the wrong risks.
