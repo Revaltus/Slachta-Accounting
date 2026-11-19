@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/strategically-balancing-your
 schema_markup: "FAQPage"
 answer_block: "A balanced investment portfolio requires ongoing rebalancing, not a one-time setup, because market gains and losses shift your asset allocation over time. Rebalancing decisions should account for capital gains tax timing, retirement account status, and business income, which is where CPA coordination with a financial advisor adds the most value."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 A portfolio that felt right in 2015 doesn't look the same today. Build a 60/40 mix of stocks and bonds a decade ago and never touch it, and a strong equity market alone can push you to 75/25 or higher without a single decision on your part. That's not diversification working in your favor. That's risk quietly creeping upward while the account statements still look fine.
 
 This is the trap behind "set it and forget it." It sounds disciplined, even wise. In practice, it means your asset allocation strategy drifts every quarter markets move, and most investors don't notice until a downturn hits a portfolio that's far more aggressive than they realized. The Federal Reserve tracks exactly this kind of shift in household investment behavior, and the pattern holds: allocations move with prices, not with a plan. You can read more in the [Federal Reserve's notes on household finance and investment behavior](https://www.federalreserve.gov/econres/notes/feds-notes/default.htm).
