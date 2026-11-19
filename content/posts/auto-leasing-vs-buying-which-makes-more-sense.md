@@ -14,7 +14,7 @@ canonical_url: https://www.slachtacpa.com/resources/auto-leasing-vs-buying-which
 schema_markup: "FAQPage"
 answer_block: "Whether to lease or buy a car depends on your annual mileage, how long you keep vehicles, and your tax situation. Buying a business vehicle often allows a Section 179 deduction and full ownership after the loan is paid off, while leasing offers lower monthly payments and a business-use percentage deduction but comes with mileage limits and no equity at the end."
 ---
-A dentist in Hudson, Wisconsin calls us every March with the same question: should the practice lease the new SUV or buy it outright? The dealership finance guy has an answer. So does the accountant down the street. So does a cousin who swears by one or the other. Most of that advice ignores the two things that actually matter: your cash flow pattern and how the vehicle interacts with your tax return. Get those two right and the decision usually becomes obvious.
+Should your practice lease the new SUV or buy it outright? The dealership finance guy has an answer. So does the accountant down the street. So does a cousin who swears by one or the other. Most of that advice ignores the two things that actually matter: your cash flow pattern and how the vehicle interacts with your tax return. Get those two right and the decision usually becomes obvious.
 
 This isn't a post about which option is cheaper in a vacuum. Leasing and buying solve different problems. The right call depends on whether you drive 8,000 miles a year or 30,000, whether the vehicle sits on a business balance sheet or your personal one, and whether you'd rather have a predictable payment or an asset you can sell in five years.
 
@@ -80,16 +80,12 @@ We walk clients through this exact framework as part of broader [advisory servic
 
 ## Common Questions
 
-**Can I deduct 100% of a leased business vehicle's payment?**
-Only if the vehicle is used 100% for business, which is rare for most owners. You deduct the business-use percentage of the lease payment, based on a mileage log or documented usage split between business and personal driving. Mixed-use vehicles require you to track and support that percentage if the IRS asks.
+**Can I deduct 100% of a leased business vehicle's payment?** Only if the vehicle is used 100% for business, which is rare for most owners. You deduct the business-use percentage of the lease payment, based on a mileage log or documented usage split between business and personal driving. Mixed-use vehicles require you to track and support that percentage if the IRS asks.
 
-**Does Section 179 apply to leased vehicles?**
-No. Section 179 is a purchase-based deduction tied to ownership and depreciation. Leased vehicles are deducted through the business-use percentage of the lease payment instead, as detailed in [IRS Publication 946](https://www.irs.gov/publications/p946).
+**Does Section 179 apply to leased vehicles?** No. Section 179 is a purchase-based deduction tied to ownership and depreciation. Leased vehicles are deducted through the business-use percentage of the lease payment instead, as detailed in [IRS Publication 946](https://www.irs.gov/publications/p946).
 
-**Is it better to buy a car through my business or personally?**
-It depends on business-use percentage, your entity type, and whether you want the deduction on the business return or your personal return. A vehicle used primarily for business and titled to the business generally supports a cleaner Section 179 claim, but the right structure depends on your specific tax situation.
+**Is it better to buy a car through my business or personally**?It depends on business-use percentage, your entity type, and whether you want the deduction on the business return or your personal return. A vehicle used primarily for business and titled to the business generally supports a cleaner Section 179 claim, but the right structure depends on your specific tax situation.
 
-**What happens if I go over my lease mileage limit?**
-You'll owe an overage fee, typically 15 to 30 cents per mile, billed when you return the vehicle. If you consistently drive more than 12,000-15,000 miles a year, that overage can erase the monthly savings leasing offered in the first place.
+**What happens if I go over my lease mileage limit**?You'll owe an overage fee, typically 15 to 30 cents per mile, billed when you return the vehicle. If you consistently drive more than 12,000-15,000 miles a year, that overage can erase the monthly savings leasing offered in the first place.
 
 The lease-versus-buy decision touches your tax return, your cash flow, and how you'll be using the vehicle three years from now. If you want to run the numbers against your actual business income and driving pattern before you sign anything, [contact us](/contact) and we'll walk through it together.
