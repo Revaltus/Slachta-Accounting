@@ -82,7 +82,7 @@ We walk clients through this exact framework as part of broader [advisory servic
 
 **Can I deduct 100% of a leased business vehicle's payment?** Only if the vehicle is used 100% for business, which is rare for most owners. You deduct the business-use percentage of the lease payment, based on a mileage log or documented usage split between business and personal driving. Mixed-use vehicles require you to track and support that percentage if the IRS asks.
 
-**Does Section 179 apply to leased vehicles?** No. Section 179 is a purchase-based deduction tied to ownership and depreciation. Leased vehicles are deducted through the business-use percentage of the lease payment instead, as detailed in [IRS Publication 946](https://www.irs.gov/publications/p946).
+**Does Section 179 apply to leased vehicles?** No. Section 179 is a purchase-based deduction tied to ownership and depreciation. Leased vehicles are deducted through the business-use percentage of the lease payment instead, as detailed in[ IRS Publication 946](https://www.irs.gov/publications/p946).
 
 **Is it better to buy a car through my business or personally?** It depends on business-use percentage, your entity type, and whether you want the deduction on the business return or your personal return. A vehicle used primarily for business and titled to the business generally supports a cleaner Section 179 claim, but the right structure depends on your specific tax situation.
 
