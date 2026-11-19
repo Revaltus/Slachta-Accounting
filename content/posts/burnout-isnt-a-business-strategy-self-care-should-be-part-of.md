@@ -14,9 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/burnout-isnt-a-business-stra
 schema_markup: "FAQPage"
 answer_block: "Self-care for business owners is a financial safeguard, not an indulgence, because decision fatigue leads directly to missed fee updates, deferred hiring, and slipping cash flow. Building rest and recurring financial reviews into the operating plan protects the judgment that keeps a business solvent and growing."
 ---
-A dentist in Hudson, Wisconsin, once told us he hadn't taken a real day off in three years. He wasn't bragging. He was explaining why his hygiene schedule was a mess, why he'd missed two insurance fee-schedule updates that cost him roughly $40,000 in underbilled claims, and why he kept putting off a conversation about hiring an associate. He wasn't lazy or careless. He was exhausted, and exhaustion had quietly become his business's biggest operating risk.
+Picture a dental practice owner who hasn't taken a real day off in years. The hygiene schedule is a mess, a couple of insurance fee-schedule updates slip through and leave tens of thousands of dollars in underbilled claims, and the conversation about hiring an associate keeps getting pushed to next month. None of it comes from laziness or carelessness. It comes from exhaustion, and exhaustion quietly becomes the business's biggest operating risk.
 
-We've worked with business owners in Stillwater, Minnesota, and across the Twin Cities metro since 2005, and the pattern repeats across dentists, attorneys, architects, and service-based business owners alike: the owner who skips vacations and works through weekends isn't the most committed person in the room. They're often the one making the costliest decisions, because burnout doesn't announce itself. It shows up as a missed deadline, a bad hire, or a client contract signed without reading the fine print.
+This pattern is common among dentists, attorneys, architects, and service-based business owners alike. The owner who skips vacations and works through weekends isn't always the most effective person in the room. They're often the one making the costliest decisions, because burnout doesn't announce itself. It shows up as a missed deadline, a bad hire, or a client contract signed without reading the fine print.
 
 ## Decision fatigue is a financial risk, not a mood
 
