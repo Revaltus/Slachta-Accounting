@@ -50,7 +50,7 @@ Once the list is sorted, cancel or downgrade what's in the unused bucket immedia
 
 We work with dentists, attorneys, architects, and service-based businesses across Minnesota and Wisconsin, and expense management shows up as a recurring concern in nearly every one of those conversations. It rarely starts with a dramatic overspend. It starts with small tools added one at a time, each justified in the moment, none of them revisited once the initial need passes.
 
-Our outsourced accounting clients get a monthly look at their expense categories as part of the standard process, which means a software line that jumps from $340 to $410 gets flagged before it becomes a habit. That kind of routine review matters more for [service-based businesses](/industries/service-based-businesses) and growing practices than it does for larger companies with dedicated finance staff, simply because there's no second set of eyes unless someone builds one in.
+Our outsourced accounting clients get a monthly look at their expense categories as part of the standard process, which means a software line that jumps noticeably from one month to the next gets flagged before it becomes a habit. That kind of routine review matters more for [service-based businesses](/industries/service-based-businesses) and growing practices than it does for larger companies with dedicated finance staff, simply because there's no second set of eyes unless someone builds one in.
 
 The stakes go beyond the monthly bill. A [previous piece on why small businesses fail](/resources/quick-reads/why-small-businesses-are-going-bankrupt-and-how-to-avoid-it) covers how cash flow erosion, not a single bad decision, is usually what pushes a profitable business toward real trouble. Subscription creep is a textbook example of that kind of erosion. It's slow, it's quiet, and it's entirely fixable once someone actually looks.
 
@@ -65,7 +65,7 @@ If you're already working on broader money habits, our [guide to building a heal
 ## Common Questions
 
 **How much does subscription creep typically cost a small business?**
-It varies widely, but audits we've run for clients in Minnesota and Wisconsin regularly turn up $200 to $700 a month in unused, duplicated, or forgotten software subscriptions, which translates to $2,400 to $8,400 a year in recoverable cash flow.
+It varies widely by business. Unused, duplicated, or forgotten software subscriptions can add up to hundreds of dollars a month, which becomes thousands per year in recoverable cash flow. A 90-day statement review is the quickest way to see your own number.
 
 **What's the fastest way to start a subscription audit?**
 Pull 90 days of bank and credit card statements, list every recurring charge you find including annual ones, and sort each into essential, overpriced, or unused. The unused category is where most of the savings show up.
