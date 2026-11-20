@@ -17,9 +17,9 @@ answer_block: "Business credit card rewards are generally not taxable because th
 
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-A dentist in Stillwater once asked us why her business credit card statement showed $4,200 in cash back for the year, and whether she owed tax on it. The short answer: usually not. The longer answer is more useful, because it opens up a bigger question most business owners never ask: is your credit card actually working for your business, or are you just collecting points on autopilot while your bookkeeping gets messier?
+Business owners often ask whether the cash back on their credit card statement is taxable. The short answer: usually not. The more useful question is whether your card is actually working for your business, or whether you are collecting points on autopilot while your bookkeeping gets messier.
 
-Credit card rewards are not a bonus feature. Used deliberately, they are a cash-flow tool, a tax-planning input, and sometimes a liability if you are not tracking them correctly. Used carelessly, they are a distraction that costs you more in interest and reconciliation headaches than the rewards are worth.
+Business credit card rewards are not a bonus feature. Used deliberately, they are a cash-flow tool and a tax-planning input. Used carelessly, they cost more in interest and reconciliation headaches than they earn.
 
 ## Are business credit card rewards taxable
 
