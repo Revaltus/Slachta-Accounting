@@ -65,16 +65,12 @@ None of this is a one-time decision. Health plan elections, HSA contribution lev
 
 ## Common Questions
 
-**How much should I keep in an emergency fund for medical bills specifically?**
-Most financial advisors suggest three to six months of expenses as a general reserve, but for medical costs, a more useful benchmark is your health plan's out-of-pocket maximum. If your family plan caps out-of-pocket costs at $9,000 a year, that figure is a more precise target than a generic multiple of monthly expenses.
+**How much should I keep in an emergency fund for medical bills specifically?** Most financial advisors suggest three to six months of expenses as a general reserve, but for medical costs, a more useful benchmark is your health plan's out-of-pocket maximum. If your family plan caps out-of-pocket costs at $9,000 a year, that figure is a more precise target than a generic multiple of monthly expenses.
 
-**Can I use HSA funds for a medical bill from a previous year?**
-Yes. There's no deadline to reimburse yourself from an HSA as long as the expense was incurred after the account was opened. Keep the receipt and documentation, since the IRS can ask for proof the withdrawal matched a qualified expense.
+**Can I use HSA funds for a medical bill from a previous year?** Yes. There's no deadline to reimburse yourself from an HSA as long as the expense was incurred after the account was opened. Keep the receipt and documentation, since the IRS can ask for proof the withdrawal matched a qualified expense.
 
-**Do I need to itemize every year to benefit from the medical expense deduction?**
-No. You can itemize in a year with heavy medical costs and take the standard deduction in other years. Compare both every filing season, since a single expensive year can make itemizing worthwhile even if the standard deduction wins in typical years.
+**Do I need to itemize every year to benefit from the medical expense deduction?** No. You can itemize in a year with heavy medical costs and take the standard deduction in other years. Compare both every filing season, since a single expensive year can make itemizing worthwhile even if the standard deduction wins in typical years.
 
-**What happens to unused FSA funds at the end of the year?**
-Under standard IRS rules, unused FSA funds are forfeited unless your employer's plan includes a grace period (typically up to 2.5 months) or allows a limited carryover. Check your plan document before year end so you're not leaving money on the table.
+**What happens to unused FSA funds at the end of the year?** Under standard IRS rules, unused FSA funds are forfeited unless your employer's plan includes a grace period (typically up to 2.5 months) or allows a limited carryover. Check your plan document before year end so you're not leaving money on the table.
 
 If a medical event has already put pressure on your cash flow, or you want your HSA, FSA, and deduction strategy actually coordinated instead of guessed at each spring, [contact Slachta Accounting & Consulting Services](/contact) and we'll walk through what fits your situation.
