@@ -66,16 +66,12 @@ We coordinate directly with clients' financial advisors on exactly this kind of 
 
 ## Common Questions
 
-**How often should I rebalance my investment portfolio?**
-Most financial professionals suggest reviewing allocation at least annually, with a rebalance triggered any time an asset class drifts more than 5 percentage points from its target. Business owners with concentrated income years should also review before any major sale of appreciated assets, since the tax timing can matter as much as the trade itself.
+**How often should I rebalance my investment portfolio?** Most financial professionals suggest reviewing allocation at least annually, with a rebalance triggered any time an asset class drifts more than 5 percentage points from its target. Business owners with concentrated income years should also review before any major sale of appreciated assets, since the tax timing can matter as much as the trade itself.
 
-**Does rebalancing always trigger a taxable event?**
-Only in taxable brokerage accounts, and only when you sell a position with a gain. Rebalancing inside a 401(k), IRA, or SEP-IRA doesn't create a tax bill, which is why many advisors and CPAs coordinate to shift the trades into retirement accounts first whenever possible.
+**Does rebalancing always trigger a taxable event?** Only in taxable brokerage accounts, and only when you sell a position with a gain. Rebalancing inside a 401(k), IRA, or SEP-IRA doesn't create a tax bill, which is why many advisors and CPAs coordinate to shift the trades into retirement accounts first whenever possible.
 
-**What's the difference between asset allocation and diversification?**
-Asset allocation is the split between broad categories like stocks, bonds, and cash. Diversification is how spread out you are within each category, across sectors, company sizes, and geographies. You can have a diversified stock portfolio that's still badly out of balance if stocks have grown to dominate your overall mix.
+**What's the difference between asset allocation and diversification?** Asset allocation is the split between broad categories like stocks, bonds, and cash. Diversification is how spread out you are within each category, across sectors, company sizes, and geographies. You can have a diversified stock portfolio that's still badly out of balance if stocks have grown to dominate your overall mix.
 
-**Should my CPA or my financial advisor handle rebalancing?**
-Your financial advisor typically executes the trades and sets the target allocation. Your CPA's role is making sure the timing and method don't create an avoidable tax cost, particularly around capital gains, retirement contributions, and business income timing.
+**Should my CPA or my financial advisor handle rebalancing?** Your financial advisor typically executes the trades and sets the target allocation. Your CPA's role is making sure the timing and method don't create an avoidable tax cost, particularly around capital gains, retirement contributions, and business income timing.
 
 If your portfolio hasn't been reviewed against your actual tax picture in a while, or you're not sure whether your financial advisor and CPA are talking to each other at all, [contact us](/contact) to set up a review that looks at both sides at once.
