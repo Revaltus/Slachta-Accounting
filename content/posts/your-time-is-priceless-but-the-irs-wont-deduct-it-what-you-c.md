@@ -16,19 +16,19 @@ answer_block: "The IRS never lets you deduct the value of your time or services,
 ---
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-Every December, someone at a nonprofit board meeting in Stillwater says it out loud: "I should get some kind of tax break for all these hours." It's a reasonable thing to think, but unfortunately this is not allowed. The IRS draws a hard line between the value of your time and the money you actually spend doing the work, and that line trips up a lot of otherwise careful taxpayers, including business owners who serve on hospital foundations, bar association committees, or school boards alongside running their own practice.
+Every December, someone at a nonprofit board meeting in Stillwater says it out loud: "I should get some kind of tax break for all these hours." It's a natural thought, and the good news is that the tax code does recognize part of your generosity. The IRS separates the value of your time from the money you actually spend doing the work, and understanding that distinction helps business owners who serve on hospital foundations, bar association committees, or school boards make the most of what's available.
 
-Here's the short version: your hours are worth nothing to the IRS, no matter your hourly rate as a dentist, attorney, or architect. Your gas money, parking fees, and that uniform you had to buy for the food shelf shift? Often deductible, if you follow the rules and keep the paperwork.
+Here's the short version: your hours aren't deductible, no matter your hourly rate as a dentist, attorney, or architect. But your gas money, parking fees, and the uniform you bought for the food shelf shift are often deductible when you follow the rules and keep the paperwork.
 
-## Your hours have no tax value, and that surprises people
+## Why your time itself isn't deductible
 
-[IRS Publication 526](https://www.irs.gov/publications/p526) is blunt about this: you cannot deduct the value of your time or services, even if you can prove exactly what that time is worth. An attorney who donates 20 hours drafting bylaws for a local nonprofit can't deduct her $400 hourly rate times 20. A dentist who spends a Saturday providing free cleanings at a community clinic can't deduct what those procedures would have billed at. Lost income while volunteering doesn't count either, so if you took unpaid leave to build houses for a week, that lost paycheck isn't a charitable deduction.
+[IRS Publication 526](https://www.irs.gov/publications/p526) is clear on this point: the value of your time or services isn't deductible, even when you can document exactly what that time is worth. For example, an attorney who donates 20 hours drafting bylaws for a local nonprofit can't deduct her hourly rate times 20, and a dentist who provides free cleanings at a community clinic can't deduct what those procedures would have billed. Lost income while volunteering isn't deductible either, so unpaid leave to build houses for a week isn't a charitable deduction.
 
-This rule catches high-earning professionals more than anyone else, because the gap between "what my time is worth" and "what I actually spent" feels enormous. It's still zero on one side of that equation.
+Professionals often find the gap between "what my time is worth" and "what I actually spent" surprising. Keeping the two separate makes it much easier to claim what you're entitled to.
 
 ## What you can actually write off
 
-The deductible side of volunteering is real, just narrower than people expect. Under Publication 526, you can deduct unreimbursed out-of-pocket expenses that are directly connected with the services you give to a qualified organization, as long as they aren't personal, living, or family expenses, and the organization hasn't reimbursed you.
+The deductible side of volunteering is real and worth tracking. Under Publication 526, you can deduct unreimbursed out-of-pocket expenses that are directly connected with the services you give to a qualified organization, as long as they aren't personal, living, or family expenses, and the organization hasn't reimbursed you.
 
 Common examples that hold up:
 
@@ -39,17 +39,17 @@ Common examples that hold up:
 
 That last one matters for board members who travel to a national conference for their nonprofit. If the trip is genuinely for the organization's work and not a vacation with a meeting bolted on, those costs can be deductible. If you extend the trip by four days to see family or sightsee, only the portion tied to the actual volunteer work counts.
 
-## The mileage rule everyone gets wrong
+## How the mileage rule works
 
-Mileage driven for charitable purposes is deductible at 14 cents per mile. That rate hasn't moved since 1997, and it's set by statute rather than adjusted annually the way the business mileage rate is. Compare that to the business standard mileage rate, which sits well above 60 cents per mile in recent years, and you can see why volunteers who drive a lot for a cause feel shortchanged. It's still money back, and if you're logging regular trips to deliver meals, transport clients, or chair committee meetings across the year, 14 cents a mile adds up.
+Mileage driven for charitable purposes is deductible at 14 cents per mile. That rate hasn't moved since 1997, and it's set by statute rather than adjusted annually the way the business mileage rate is. The business standard mileage rate is considerably higher, but the charitable rate still adds up quickly if you're logging regular trips to deliver meals, transport clients, or chair committee meetings across the year.
 
 You have a choice: use the 14-cents-per-mile rate, or track your actual gas and oil costs for those specific trips. You cannot include depreciation, insurance, repairs, or general maintenance in that calculation, the way you might for a business vehicle. If you're weighing how vehicle costs factor into your broader tax picture, our piece on [leasing versus buying a car](/resources/auto-leasing-vs-buying-which-makes-more-sense) covers the business side of that math.
 
-Whatever method you choose, keep a log: date, destination, purpose, and miles driven. "Various nonprofit trips, 2024" won't survive a records request.
+Whatever method you choose, keep a log: date, destination, purpose, and miles driven. Specific entries are far more useful than a general note like "various nonprofit trips" if records are ever requested.
 
-## What doesn't count, no matter how good the cause
+## What qualifies and what doesn't
 
-A few categories trip people up every year:
+This quick reference covers the categories that come up most often:
 
 | Expense | Deductible? |
 |---|---|
@@ -64,25 +64,25 @@ A few categories trip people up every year:
 | Gas and oil, or 14 cents per mile, for volunteer driving | Yes |
 | Travel expenses for a trip with no significant personal vacation element | Yes |
 
-The theme running through the "no" column is personal benefit or unproven value. The theme in the "yes" column is documented, out-of-pocket, and directly tied to the organization's work.
+The "yes" column is easy to remember: documented, out-of-pocket costs directly tied to the organization's work. The "no" items involve personal benefit or value that can't be substantiated.
 
 ## Keeping records that will hold up
 
-Two practical limits catch people off guard. First, you can only claim these deductions if you itemize on Schedule A. Given how high the standard deduction runs for most filers now, plenty of volunteers spend real money on a cause and get zero tax benefit because they're better off taking the standard deduction anyway. That's not a reason to stop tracking expenses, but it's a reason not to assume a deduction is coming.
+Two practical points help you plan. First, these deductions apply when you itemize on Schedule A. Because the standard deduction is high for most filers, some volunteers find the standard deduction is the better choice. Tracking your expenses anyway keeps you ready, and it shows you which approach works best each year.
 
-Second, if your unreimbursed expenses for a single organization add up to $250 or more, you need a written acknowledgment from that organization describing the services you provided and stating whether you received anything in return. A verbal thank-you at the annual gala doesn't cut it. Ask the nonprofit's treasurer or finance staff for a letter before tax season gets busy, not after.
+Second, if your unreimbursed expenses for a single organization add up to $250 or more, you need a written acknowledgment from that organization describing the services you provided and stating whether you received anything in return. A verbal thank-you at the annual gala won't serve as documentation, so ask the nonprofit's treasurer or finance staff for a letter early, before tax season gets busy.
 
-Also confirm the organization qualifies. Not every cause you support is a registered 501(c)(3). The [IRS Charities & Nonprofits Resource Hub](https://www.irs.gov/charities-non-profits) is the place to verify status before you count on a deduction that isn't there.
+Also confirm the organization qualifies. Not every cause is a registered 501(c)(3), and the [IRS Charities & Nonprofits Resource Hub](https://www.irs.gov/charities-non-profits) makes it easy to verify status before you plan around a deduction.
 
 ## Board service is common among our clients, and the rules apply the same way
 
-A lot of the business owners we work with sit on boards: dentists on dental society committees, attorneys on legal aid boards, architects on design review panels for local nonprofits. The tax treatment doesn't change based on your profession or your billing rate. What changes is how much documentation discipline pays off, because professionals who track mileage and receipts carefully tend to be the ones who actually see a deduction when it's real.
+A lot of the business owners we work with sit on boards: dentists on dental society committees, attorneys on legal aid boards, architects on design review panels for local nonprofits. The tax treatment doesn't change based on your profession or your billing rate. What helps is good documentation, because professionals who track mileage and receipts carefully are the ones best positioned to claim a deduction when one applies.
 
-If you're managing this alongside a business, the same habits that keep your company's expense tracking clean, one file per category, one log per vehicle, apply directly here. The volunteer expense rules aren't complicated once you separate "time" from "money spent," but the recordkeeping is where deductions get lost.
+If you're managing this alongside a business, the same habits that keep your company's expense tracking clean, one file per category, one log per vehicle, apply directly here. The volunteer expense rules are straightforward once you separate "time" from "money spent," and consistent recordkeeping is what makes the deduction work.
 
 ## Common Questions
 
-**Can I deduct the value of professional services I donate for free?** No. The IRS specifically disallows a deduction for the value of your time or services, regardless of your normal hourly rate. Only unreimbursed out-of-pocket costs directly connected to the volunteer work are deductible, per IRS Publication 526.
+**Can I deduct the value of professional services I donate for free?** No. The IRS does not allow a deduction for the value of your time or services, regardless of your normal hourly rate. Only unreimbursed out-of-pocket costs directly connected to the volunteer work are deductible, per IRS Publication 526.
 
 **What mileage rate do I use for volunteer driving?** The charitable mileage rate is 14 cents per mile, a fixed statutory rate that hasn't changed since 1997. Alternatively, you can deduct actual gas and oil costs for the trips, but not depreciation, insurance, or repairs.
 
@@ -90,4 +90,4 @@ If you're managing this alongside a business, the same habits that keep your com
 
 **Does it matter if the nonprofit is officially registered?** Yes. Deductions only apply to contributions and expenses connected to a qualified organization. Verify status through the [IRS Charities & Nonprofits Resource Hub](https://www.irs.gov/charities-non-profits) before assuming a deduction applies.
 
-If you volunteer regularly, sit on a nonprofit board, or want to know how charitable giving fits into your broader tax picture as a business owner, [contact us](/contact) and we'll walk through what actually applies to your situation.
+If you volunteer regularly, sit on a nonprofit board, or want to know how charitable giving fits into your broader tax picture as a business owner, [contact us](/contact) and we'd be glad to walk through what applies to your situation.
