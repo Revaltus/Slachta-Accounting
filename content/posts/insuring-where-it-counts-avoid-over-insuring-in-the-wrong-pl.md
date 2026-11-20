@@ -68,16 +68,12 @@ We work through this exercise regularly with dentists and specialty healthcare p
 
 ## Common Questions
 
-**How much insurance coverage do I actually need?**
-The amount depends on the gap between your net worth and your realistic loss exposure in each category: life, disability, liability, and property. There's no universal number. A useful starting point is calculating what dollar loss in each category would force a change in your lifestyle or business operations, then sizing coverage to close that specific gap rather than following a generic rule of thumb like "ten times income."
+**How much insurance coverage do I actually need?** The amount depends on the gap between your net worth and your realistic loss exposure in each category: life, disability, liability, and property. There's no universal number. A useful starting point is calculating what dollar loss in each category would force a change in your lifestyle or business operations, then sizing coverage to close that specific gap rather than following a generic rule of thumb like "ten times income."
 
-**What's the difference between personal and business insurance needs analysis?**
-A personal analysis starts with net worth, dependents, and income replacement needs. A business analysis starts with operating cash flow, key-person dependency, and realistic claim sizes for your industry. Business owners usually need both run side by side, since a personal financial shock and a business one often hit at the same time.
+**What's the difference between personal and business insurance needs analysis?** A personal analysis starts with net worth, dependents, and income replacement needs. A business analysis starts with operating cash flow, key-person dependency, and realistic claim sizes for your industry. Business owners usually need both run side by side, since a personal financial shock and a business one often hit at the same time.
 
-**Is business insurance tax deductible?**
-Most ordinary business insurance premiums, including liability, property, and business interruption coverage, are deductible as a business expense under [IRS Publication 535](https://www.irs.gov/publications/p535). Deductibility isn't a reason to buy more coverage than your exposure warrants, but it does affect the after-tax cost of the coverage you actually need.
+**Is business insurance tax deductible?** Most ordinary business insurance premiums, including liability, property, and business interruption coverage, are deductible as a business expense under [IRS Publication 535](https://www.irs.gov/publications/p535). Deductibility isn't a reason to buy more coverage than your exposure warrants, but it does affect the after-tax cost of the coverage you actually need.
 
-**How often should I revisit my coverage amounts?**
-At minimum, revisit coverage after any major shift: a new partner, a change in revenue, a paid-off mortgage, or a change in net worth of 20% or more in either direction. Absent a major event, an annual review alongside tax planning catches most drift before it becomes a real gap or a wasted premium.
+**How often should I revisit my coverage amounts?** At minimum, revisit coverage after any major shift: a new partner, a change in revenue, a paid-off mortgage, or a change in net worth of 20% or more in either direction. Absent a major event, an annual review alongside tax planning catches most drift before it becomes a real gap or a wasted premium.
 
 If your coverage hasn't been checked against your current net worth and cash flow in a while, that's worth fixing before it costs you either an unnecessary premium or a real gap. [Contact us](/contact) to set up a risk review alongside your tax and cash flow planning.
