@@ -17,13 +17,13 @@ answer_block: "A dog's care costs are only tax deductible in narrow cases: as a 
 
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-A client called our Stillwater office last January, only half joking, and asked whether his golden retriever counted as a business expense because clients "really respond well to him" in the waiting room. It's a fair question, and it comes up more than you'd think, especially among dentists, insurance agents, and service-based business owners whose dogs genuinely do spend time at the office. The honest answer is almost always no. But almost isn't never, and the narrow cases where dog-related costs are legitimately deductible are worth understanding, both to claim what you're entitled to and to avoid a deduction that unravels under IRS scrutiny.
+Plenty of business owners wonder whether the dog who greets clients in the waiting room counts as a business expense. It's a fair question, especially for dentists, insurance agents, and other service-based business owners who like having a dog at the office. The honest answer is almost always no. But almost isn't never, and the narrow cases where dog-related costs are legitimately deductible are worth understanding, both to claim what you're entitled to and to avoid a deduction that unravels under IRS scrutiny.
 
 The short version: the IRS treats your dog the same way it treats your couch or your kids' braces, as a personal expense, unless the animal is doing identifiable, documented work that meets specific legal standards. Petting a dog doesn't create a deduction. Neither does bringing one to the office because morale improves. What matters is function, documentation, and whether the expense is ordinary and necessary for the business or meets the medical-expense rules under the tax code.
 
 ## Why your dog is a personal expense by default
 
-[IRS Publication 535](https://www.irs.gov/publications/p535) sets the baseline test for any business deduction: the expense has to be both ordinary (common in your trade) and necessary (helpful and appropriate for your business). A dog that greets patients at a dental practice or naps under a desk at an insurance agency doesn't meet that bar just because employees like having it around. The IRS has consistently disallowed deductions for pets kept primarily for companionship, even when the business owner argues the animal reduces stress or improves customer experience. If your dog's job description is "good boy," the food, grooming, and vet bills stay personal, full stop.
+[IRS Publication 535](https://www.irs.gov/publications/p535) sets the baseline test for any business deduction: the expense has to be both ordinary (common in your trade) and necessary (helpful and appropriate for your business). A dog that greets patients at a dental practice or naps under a desk at an insurance agency doesn't meet that bar just because employees like having it around. The IRS generally treats pets kept primarily for companionship as personal expenses, even when the business owner argues the animal reduces stress or improves customer experience. If your dog's job description is "good boy," the food, grooming, and vet bills stay personal, full stop.
 
 This catches people off guard because so much online advice about pet deductions is vague or wrong. The rule isn't about how much you love the dog or how often it's physically present at the business. It's about whether the dog performs a function the business could not reasonably do without, and whether you can prove it.
 
@@ -35,11 +35,11 @@ The catch is the same one that applies to every itemized medical deduction: it o
 
 ## Guard dogs, breeding operations, and other business write-offs that actually hold up
 
-This is where it gets interesting for business owners, and where we see the most legitimate opportunity. If a dog is performing a specific, documented business function, its costs can qualify as an ordinary and necessary business expense under Publication 535, separate entirely from the personal-pet rule.
+This is where it gets interesting for business owners. If a dog is performing a specific, documented business function, its costs can qualify as an ordinary and necessary business expense under Publication 535, separate entirely from the personal-pet rule.
 
 A few patterns that consistently hold up:
 
-- **Guard dogs protecting business property.** A dog kept on-site specifically to secure a warehouse, storage yard, or equipment lot has a defensible business purpose. The Tax Court has historically allowed deductions in cases like this, where the animal's role in protecting inventory or property is clear and separate from any household use.
+- **Guard dogs protecting business property.** A dog kept on-site specifically to secure a warehouse, storage yard, or equipment lot has a defensible business purpose. The deduction is easiest to defend when the animal's role in protecting inventory or property is clear and separate from any household use.
 - **Breeding operations run as an actual business.** If you're breeding dogs with the intent to profit, reporting income, and running it like a business rather than a hobby, related costs (food, vet care, stud fees, advertising) can be deducted as business expenses. The IRS hobby-loss rules apply here, so profit motive and recordkeeping matter as much as the activity itself.
 - **Working dogs on farms or in specialized service roles.** Herding dogs on a working farm, or dogs specifically trained and used for a business function like pest detection, fall into similar territory. The common thread is always documented, work-specific use.
 
@@ -47,13 +47,13 @@ The deduction generally covers ongoing costs like food, veterinary care, and tra
 
 ## Therapy dogs and emotional support animals are a different category
 
-This is the most common confusion we see, and it's worth separating clearly. A therapy dog that visits a dental office to calm nervous patients, or an emotional support animal a doctor recommended for anxiety, is not automatically a "service animal" under Publication 502. The medical deduction is reserved for animals trained to perform specific tasks related to a physical or sensory disability. Emotional support and comfort, without specific trained tasks tied to a diagnosed disability, generally doesn't clear that bar, no matter how helpful the dog actually is.
+This is a common point of confusion, and it's worth separating clearly. A therapy dog that visits a dental office to calm nervous patients, or an emotional support animal a doctor recommended for anxiety, is not automatically a "service animal" under Publication 502. The medical deduction is reserved for animals trained to perform specific tasks related to a physical or sensory disability. Emotional support and comfort, without specific trained tasks tied to a diagnosed disability, generally doesn't clear that bar, no matter how helpful the dog actually is.
 
-We've had prospective clients push back on this, and it's understandable. The distinction feels arbitrary when the emotional benefit is real. But the IRS distinction is about training and task performance, not the sincerity of the need. If you're considering this deduction, the documentation from a licensed medical professional and the specific trained function of the animal are what determine whether it survives review, not the letter recommending the animal in the first place.
+Some people push back on this, and it's understandable. The distinction feels arbitrary when the emotional benefit is real. But the IRS distinction is about training and task performance, not the sincerity of the need. If you're considering this deduction, the documentation from a licensed medical professional and the specific trained function of the animal are what determine whether it survives review, not the letter recommending the animal in the first place.
 
 ## What documentation actually protects the deduction
 
-Every legitimate dog-related deduction we've seen hold up shares the same paperwork trail:
+Legitimate dog-related deductions depend on a clear paperwork trail:
 
 | Deduction type | What to document |
 |---|---|
