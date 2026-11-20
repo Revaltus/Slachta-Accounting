@@ -13,6 +13,7 @@ secondary_keywords: ["managing subscription costs", "recurring expenses budget",
 canonical_url: https://www.slachtacpa.com/resources/take-back-control-of-subscription-creep
 schema_markup: "FAQPage"
 answer_block: "Subscription creep is the gradual buildup of small recurring charges, personal or business, that go unreviewed until they represent a real budget line. Fixing it requires pulling 90 days of statements, sorting every charge by necessity, and building a quarterly review into your regular budget routine rather than treating it as a one-time cleanup."
+faq_block: [{"question":"How much does subscription creep typically cost a small business?","answer":"It varies widely by business. Unused, duplicated, or forgotten software subscriptions can add up to hundreds of dollars a month, which becomes thousands per year in recoverable cash flow. A 90-day statement review is the quickest way to see your own number."},{"question":"What's the fastest way to start a subscription audit?","answer":"Pull 90 days of bank and credit card statements, list every recurring charge you find including annual ones, and sort each into essential, overpriced, or unused. The unused category is where most of the savings show up."},{"question":"How often should recurring expenses be reviewed?","answer":"Quarterly works well for most small businesses and individuals. Tying the review to an existing budget or KPI check-in cycle makes it far more likely to actually happen."},{"question":"Can a CPA firm help manage recurring business expenses, not just taxes?","answer":"Yes. Outsourced accounting includes monthly expense category review, which catches creeping subscription costs and other recurring charges long before they show up as a surprise at tax time."}]
 ---
 
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
@@ -76,3 +77,18 @@ Quarterly works well for most small businesses and individuals. Tying the review
 Yes. Outsourced accounting includes monthly expense category review, which catches creeping subscription costs and other recurring charges long before they show up as a surprise at tax time.
 
 If your business hasn't looked closely at its recurring charges in the past year, or you want a personal financial plan that accounts for where your money actually goes each month, [contact our Stillwater, Minnesota team](/contact) to talk through what a full expense review would look like for your situation.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: How much does subscription creep typically cost a small business?**
+A: It varies widely by business. Unused, duplicated, or forgotten software subscriptions can add up to hundreds of dollars a month, which becomes thousands per year in recoverable cash flow. A 90-day statement review is the quickest way to see your own number.
+
+**Q: What's the fastest way to start a subscription audit?**
+A: Pull 90 days of bank and credit card statements, list every recurring charge you find including annual ones, and sort each into essential, overpriced, or unused. The unused category is where most of the savings show up.
+
+**Q: How often should recurring expenses be reviewed?**
+A: Quarterly works well for most small businesses and individuals. Tying the review to an existing budget or KPI check-in cycle makes it far more likely to actually happen.
+
+**Q: Can a CPA firm help manage recurring business expenses, not just taxes?**
+A: Yes. Outsourced accounting includes monthly expense category review, which catches creeping subscription costs and other recurring charges long before they show up as a surprise at tax time.
