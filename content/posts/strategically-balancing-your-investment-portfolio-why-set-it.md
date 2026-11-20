@@ -17,9 +17,9 @@ answer_block: "A balanced investment portfolio requires ongoing rebalancing, not
 
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-A portfolio that felt right in 2015 doesn't look the same today. Build a 60/40 mix of stocks and bonds a decade ago and never touch it, and a strong equity market alone can push you to 75/25 or higher without a single decision on your part. That's not diversification working in your favor. That's risk quietly creeping upward while the account statements still look fine.
+Think back to when you first set up your investments. You picked a mix that felt comfortable, and then life got busy running your business. Years later, the account may look very different from what you chose, even though you never made a change. A strong stock market can quietly turn a cautious mix into a much riskier one. The statements still look fine, so it's easy to miss.
 
-This is the trap behind "set it and forget it." It sounds disciplined, even wise. In practice, it means your asset allocation strategy drifts every quarter markets move, and most investors don't notice until a downturn hits a portfolio that's far more aggressive than they realized. The Federal Reserve tracks exactly this kind of shift in household investment behavior, and the pattern holds: allocations move with prices, not with a plan. You can read more in the [Federal Reserve's notes on household finance and investment behavior](https://www.federalreserve.gov/econres/notes/feds-notes/default.htm).
+That's the trap behind "set it and forget it." It sounds disciplined, even wise. In practice, your investment mix shifts a little every time the market moves, and many people don't notice until a downturn hits a portfolio that's riskier than they realized. The Federal Reserve tracks this kind of shift in household investment behavior, and the pattern holds: your mix follows market prices, not your plan. You can read more in the [Federal Reserve's notes on household finance and investment behavior](https://www.federalreserve.gov/econres/notes/feds-notes/default.htm).
 
 ## Rebalancing is a discipline, not a one-time decision
 
