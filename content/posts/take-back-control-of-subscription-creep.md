@@ -17,7 +17,7 @@ answer_block: "Subscription creep is the gradual buildup of small recurring char
 
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-A dental practice owner in Hudson, Wisconsin sat down with our team last spring to review her books and found fourteen active software subscriptions tied to her business checking account. Three she didn't recognize. Two were tools her office manager had trialed two years earlier and never canceled. The total came to $612 a month, or roughly $7,344 a year, leaving her account before she ever looked at a profit and loss statement. That's subscription creep: the slow accumulation of recurring charges that feels harmless individually but adds up to a real line item nobody planned for.
+Picture a business checking account with a dozen or more software subscriptions attached to it. A few are tools nobody uses anymore, a couple were free trials that quietly converted to paid plans, and one or two no one on the team can place. Each charge looks small, but together they leave the account every month before anyone looks at a profit and loss statement. That's subscription creep: the slow accumulation of recurring charges that feels harmless individually but adds up to a real line item nobody planned for.
 
 Individuals aren't immune either. Streaming platforms, meal kits, cloud storage upgrades, fitness apps, and free trials that convert to paid plans after 14 days all chip away at monthly cash flow in amounts too small to trigger alarm. The problem isn't any single $12.99 charge. It's the volume, and the fact that nobody reviews the full list until something forces the question, like a tight month or a year-end tax meeting.
 
