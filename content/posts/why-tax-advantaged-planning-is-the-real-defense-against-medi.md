@@ -31,7 +31,7 @@ We tell clients at Slachta Accounting to think of cash savings and tax-advantage
 
 If you're enrolled in a qualifying high-deductible health plan, a Health Savings Account is the single strongest tool available for medical cost planning. It works on three fronts at once: contributions reduce your taxable income, growth inside the account isn't taxed, and withdrawals for qualified medical expenses come out tax-free. No other account in the tax code offers that triple benefit.
 
-For 2024, the contribution limits are $4,150 for self-only coverage and $8,300 for family coverage, with an extra $1,000 catch-up allowed once you turn 55. Unlike a Flexible Spending Account, HSA balances carry over indefinitely. There's no "use it or lose it" deadline, and the account stays with you if you change employers or become self-employed. For a dentist running a solo practice or a small business owner paying for a family health plan, that's a meaningful pool of tax-sheltered money sitting ready for the year a kid breaks an arm or a spouse needs surgery.
+For 2027, the family contribution limit is $9,000, with an extra $1,000 catch-up allowed per eligible person age 55 or older who isn't enrolled in Medicare. If both spouses are 55 or older and eligible, each must put their own catch-up into a separate HSA. To qualify, a high-deductible plan must carry a minimum deductible of $1,750 for self-only coverage or $3,500 for family coverage, and out-of-pocket costs are capped at $8,700 (self-only) or $17,400 (family). Unlike a Flexible Spending Account, HSA balances carry over indefinitely. There's no "use it or lose it" deadline, and the account stays with you if you change employers or become self-employed. For a dentist running a solo practice or a small business owner paying for a family health plan, that's a meaningful pool of tax-sheltered money sitting ready for the year a kid breaks an arm or a spouse needs surgery.
 
 Business owners have a second angle worth considering: pairing a high-deductible plan with employer HSA contributions can be a lower-cost way to support staff benefits than a richer traditional plan, while giving employees the same tax advantages. If you're weighing plan design decisions for your team, that's a conversation worth having alongside your CPA and your benefits broker, not after open enrollment closes.
 
@@ -44,7 +44,7 @@ A Flexible Spending Account also lets you set aside pre-tax dollars for medical 
 | Ownership | Yours, portable | Employer's plan |
 | Rollover | Unlimited, carries forever | Limited or none |
 | Eligibility | Requires high-deductible health plan | Available with most employer plans |
-| 2024 contribution limit | $4,150 / $8,300 (family) | $3,200 |
+| Contribution limit | $9,000 family (2027) | $3,200 (2024) |
 | Investment growth | Tax-free | Not applicable |
 
 An FSA still has a place, especially for predictable annual costs like orthodontia, glasses, or routine prescriptions where you can estimate the spend accurately. The mistake we see most often is treating an FSA like a savings account for unpredictable emergencies. It isn't built for that. If your health plan qualifies you for an HSA instead, that account is the better home for anything tied to an unexpected medical event.
