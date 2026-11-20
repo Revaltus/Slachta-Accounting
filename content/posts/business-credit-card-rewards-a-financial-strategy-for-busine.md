@@ -71,16 +71,12 @@ The businesses that get the most out of credit card rewards are usually the same
 
 ## Common Questions
 
-**Are business credit card rewards taxable income?**
-Generally no. Rewards earned on purchases are treated as a rebate that reduces the cost of the expense, not as taxable income. Exceptions exist for certain sign-up bonuses that don't require a purchase and for rewards an issuer reports directly as 1099 income.
+**Are business credit card rewards taxable income?** Generally no. Rewards earned on purchases are treated as a rebate that reduces the cost of the expense, not as taxable income. Exceptions exist for certain sign-up bonuses that don't require a purchase and for rewards an issuer reports directly as 1099 income.
 
-**What is the best business credit card for small business taxes?**
-There is no single best card. A flat-rate cash back card in the 1.5%-2% range is easiest to reconcile at tax time because rewards don't vary by category, which simplifies bookkeeping even if it caps your upside on high-spend categories.
+**What is the best business credit card for small business taxes?** There is no single best card. A flat-rate cash back card in the 1.5%-2% range is easiest to reconcile at tax time because rewards don't vary by category, which simplifies bookkeeping even if it caps your upside on high-spend categories.
 
-**How do I choose a business credit card that fits my company?**
-Start with 90 days of actual spending data broken down by category, not a guess about future spending. Match the card's bonus categories to where the money already goes, whether that's supplies, software, travel, or vendor payments, and confirm you can pay the statement in full each month.
+**How do I choose a business credit card that fits my company?** Start with 90 days of actual spending data broken down by category, not a guess about future spending. Match the card's bonus categories to where the money already goes, whether that's supplies, software, travel, or vendor payments, and confirm you can pay the statement in full each month.
 
-**Do credit card points need to be reconciled in my bookkeeping?**
-Yes. Statement credits, redeemed points, and cash back deposits should be classified in your general ledger even when they aren't taxable, because unreconciled rewards distort your true expense totals and make year-over-year KPI comparisons unreliable.
+**Do credit card points need to be reconciled in my bookkeeping?** Yes. Statement credits, redeemed points, and cash back deposits should be classified in your general ledger even when they aren't taxable, because unreconciled rewards distort your true expense totals and make year-over-year KPI comparisons unreliable.
 
 If you want a second opinion on whether your current card setup matches your actual spending, or if your bookkeeping needs to catch up before a rewards strategy makes sense, [contact us](/contact) and we'll walk through your numbers together.
