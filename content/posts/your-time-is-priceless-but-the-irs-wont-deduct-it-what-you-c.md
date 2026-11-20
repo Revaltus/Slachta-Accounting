@@ -16,7 +16,7 @@ answer_block: "The IRS never lets you deduct the value of your time or services,
 ---
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-Every December, someone at a nonprofit board meeting in Stillwater says it out loud: "I should get some kind of tax break for all these hours." It's a reasonable thing to think. It's also wrong. The IRS draws a hard line between the value of your time and the money you actually spend doing the work, and that line trips up a lot of otherwise careful taxpayers, including business owners who serve on hospital foundations, bar association committees, or school boards alongside running their own practice.
+Every December, someone at a nonprofit board meeting in Stillwater says it out loud: "I should get some kind of tax break for all these hours." It's a reasonable thing to think, but unfortunately this is not allowed. The IRS draws a hard line between the value of your time and the money you actually spend doing the work, and that line trips up a lot of otherwise careful taxpayers, including business owners who serve on hospital foundations, bar association committees, or school boards alongside running their own practice.
 
 Here's the short version: your hours are worth nothing to the IRS, no matter your hourly rate as a dentist, attorney, or architect. Your gas money, parking fees, and that uniform you had to buy for the food shelf shift? Often deductible, if you follow the rules and keep the paperwork.
 
