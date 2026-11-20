@@ -83,16 +83,12 @@ Buying a home isn't a bad decision and neither is renting. The bad decision is s
 
 ## Common Questions
 
-**Is renting better than buying financially?**
-It depends on your holding period, local appreciation rates, and what you'd do with the money not spent on a down payment. Over short holding periods, typically under 3-4 years, renting and investing the difference often wins because transaction costs on a home purchase and sale eat into any equity gained. Over 7+ years in a stable or appreciating market, buying usually pulls ahead.
+**Is renting better than buying financially?** It depends on your holding period, local appreciation rates, and what you'd do with the money not spent on a down payment. Over short holding periods, typically under 3-4 years, renting and investing the difference often wins because transaction costs on a home purchase and sale eat into any equity gained. Over 7+ years in a stable or appreciating market, buying usually pulls ahead.
 
-**How much should I budget for home maintenance each year?**
-A common rule of thumb is 1% to 2% of the home's value annually, though older homes and homes with major systems (roof, HVAC, foundation) nearing the end of their useful life should budget toward the higher end.
+**How much should I budget for home maintenance each year?** A common rule of thumb is 1% to 2% of the home's value annually, though older homes and homes with major systems (roof, HVAC, foundation) nearing the end of their useful life should budget toward the higher end.
 
-**Does the mortgage interest deduction make buying worth it?**
-Usually not by itself. Under [IRS Topic No. 505](https://www.irs.gov/taxtopics/tc505), the deduction only helps if your itemized deductions exceed the standard deduction, which excludes many households. Treat it as a modest offset to borrowing costs, not a primary reason to buy.
+**Does the mortgage interest deduction make buying worth it?** Usually not by itself. Under [IRS Topic No. 505](https://www.irs.gov/taxtopics/tc505), the deduction only helps if your itemized deductions exceed the standard deduction, which excludes many households. Treat it as a modest offset to borrowing costs, not a primary reason to buy.
 
-**What's a reasonable down payment if I also run a business?**
-Enough to secure a competitive rate, typically 20% to avoid PMI, while still keeping 3-6 months of both personal and business operating expenses in reserve. If a down payment would drain your business's cash cushion, that's a sign to revisit the timeline before the timing of the market.
+**What's a reasonable down payment if I also run a business?** Enough to secure a competitive rate, typically 20% to avoid PMI, while still keeping 3-6 months of both personal and business operating expenses in reserve. If a down payment would drain your business's cash cushion, that's a sign to revisit the timeline before the timing of the market.
 
 If you're weighing a home purchase against your business's cash flow, retirement contributions, or investment plans, a conversation with our team can put real numbers behind the decision instead of a rule of thumb. [Contact us](/contact) to talk through your specific situation.
