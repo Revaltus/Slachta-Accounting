@@ -14,6 +14,9 @@ canonical_url: https://www.slachtacpa.com/resources/how-to-turn-a-second-home-in
 schema_markup: "FAQPage"
 answer_block: "Under IRS rules, if you rent your second home for 14 days or fewer per year, the rental income isn't reportable and you keep standard mortgage interest and property tax deductions. Rent it more than 14 days, and your deductions and loss eligibility depend on how many days you personally used the property relative to rental days."
 ---
+
+*By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
+
 A cabin on a Wisconsin lake or a condo near the Gulf changes more than your weekend plans. It changes how the IRS looks at your tax return, and the difference comes down to one number: how many days a year you rent the place out versus use it yourself. Cross that line and a relaxing getaway turns into a rental business with its own reporting rules, deduction limits, and record-keeping demands. Stay under it and you keep the simpler tax treatment of a personal residence, mortgage interest deduction included.
 
 Most of what shows up when you search for second home tax advice comes from real estate agents talking about square footage and resale value. That's useful for the purchase decision, but it skips the part that actually determines your tax bill: the IRS doesn't care what you call the property. It cares how you use it.
