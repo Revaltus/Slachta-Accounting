@@ -67,16 +67,12 @@ Our earlier piece on [building a healthier money mindset](/resources/quick-reads
 
 ## Common Questions
 
-**Is self-care really a financial issue, or is this just a wellness trend applied to business advice?**
-Yes. Rested owners tend to make stronger decisions, from timely fee updates to confident hiring, and those decisions show up on the P&L. Treating rest as part of the operating plan is a smart risk-management choice.
+**Is self-care really a financial issue, or is this just a wellness trend applied to business advice**?Yes. Rested owners tend to make stronger decisions, from timely fee updates to confident hiring, and those decisions show up on the P&L. Treating rest as part of the operating plan is a smart risk-management choice.
 
-**How much rest does a business owner actually need to protect decision-making?**
-There's no universal number, but across the dentists, attorneys, and service-business owners we work with, those who protect one full day a week away from operational decisions, plus a real vacation each year, tend to spot financial issues like fee schedules, aging receivables, and subscription creep much sooner.
+**How much rest does a business owner actually need to protect decision-making**?There's no universal number, but across the dentists, attorneys, and service-business owners we work with, those who protect one full day a week away from operational decisions, plus a real vacation each year, tend to spot financial issues like fee schedules, aging receivables, and subscription creep much sooner.
 
-**What's the first practical step toward reducing owner burnout without hurting revenue?**
-Start with a recurring financial review, weekly or monthly, that's scheduled rather than reactive. Owners who see cash flow and KPI trends on a fixed cadence make fewer emergency decisions, which is often what's driving the exhaustion in the first place.
+**What's the first practical step toward reducing owner burnout without hurting revenue**?Start with a recurring financial review, weekly or monthly, that's scheduled rather than reactive. Owners who see cash flow and KPI trends on a fixed cadence make fewer emergency decisions, which is often what's driving the exhaustion in the first place.
 
-**Can outsourcing accounting and payroll actually reduce burnout?**
-Yes, for many owners it's the single biggest time and mental-load reduction available, because it removes the daily and weekly financial tasks that otherwise compete with strategic decisions. It doesn't remove ownership of the numbers, it removes the manual burden of producing them.
+**Can outsourcing accounting and payroll actually reduce burnout**?Yes, for many owners it's the single biggest time and mental-load reduction available, because it removes the daily and weekly financial tasks that otherwise compete with strategic decisions. It doesn't remove ownership of the numbers, it removes the manual burden of producing them.
 
-If you'd like more breathing room and clearer visibility into your numbers, we'd love to help. [Book a sustainable financial rhythm conversation](/contact) and let's map out what works for your practice or business.
+If you'd like more breathing room and clearer visibility into your numbers, we'd love to help. [Reach out.](/contact) Let's have a conversation so we can map out what works for your practice or business.
