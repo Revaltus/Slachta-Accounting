@@ -64,17 +64,13 @@ If you're already working on broader money habits, our [guide to building a heal
 
 ## Common Questions
 
-**How much does subscription creep typically cost a small business?**
-It varies widely by business. Unused, duplicated, or forgotten software subscriptions can add up to hundreds of dollars a month, which becomes thousands per year in recoverable cash flow. A 90-day statement review is the quickest way to see your own number.
+**How much does subscription creep typically cost a small business?** It varies widely by business. Unused, duplicated, or forgotten software subscriptions can add up to hundreds of dollars a month, which becomes thousands per year in recoverable cash flow. A 90-day statement review is the quickest way to see your own number.
 
-**What's the fastest way to start a subscription audit?**
-Pull 90 days of bank and credit card statements, list every recurring charge you find including annual ones, and sort each into essential, overpriced, or unused. The unused category is where most of the savings show up.
+**What's the fastest way to start a subscription audit?** Pull 90 days of bank and credit card statements, list every recurring charge you find including annual ones, and sort each into essential, overpriced, or unused. The unused category is where most of the savings show up.
 
-**How often should recurring expenses be reviewed?**
-Quarterly works well for most small businesses and individuals. Tying the review to an existing budget or KPI check-in cycle makes it far more likely to actually happen.
+**How often should recurring expenses be reviewed?** Quarterly works well for most small businesses and individuals. Tying the review to an existing budget or KPI check-in cycle makes it far more likely to actually happen.
 
-**Can a CPA firm help manage recurring business expenses, not just taxes?**
-Yes. Outsourced accounting includes monthly expense category review, which catches creeping subscription costs and other recurring charges long before they show up as a surprise at tax time.
+**Can a CPA firm help manage recurring business expenses, not just taxes?** Yes. Outsourced accounting includes monthly expense category review, which catches creeping subscription costs and other recurring charges long before they show up as a surprise at tax time.
 
 If your business hasn't looked closely at its recurring charges in the past year, or you want a personal financial plan that accounts for where your money actually goes each month, [contact our Stillwater, Minnesota team](/contact) to talk through what a full expense review would look like for your situation.
 
