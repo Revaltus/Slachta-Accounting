@@ -68,16 +68,12 @@ If you run a service-based business, a specialty practice, or an entrepreneurial
 
 ## Common Questions
 
-**Can I deduct my dog if it comes to the office every day?**
-Not on its own. Presence alone doesn't create a deduction. The dog needs a specific, documented business function, like guarding property, and the costs need to be ordinary and necessary for that function under [IRS Publication 535](https://www.irs.gov/publications/p535).
+**Can I deduct my dog if it comes to the office every day?** Not on its own. Presence alone doesn't create a deduction. The dog needs a specific, documented business function, like guarding property, and the costs need to be ordinary and necessary for that function under [IRS Publication 535](https://www.irs.gov/publications/p535).
 
-**Is a therapy dog the same as a service animal for tax purposes?**
-No. Service animals trained to perform specific tasks for a diagnosed disability qualify as a medical expense under [IRS Publication 502](https://www.irs.gov/publications/p502). Therapy and emotional support animals generally don't meet that standard unless they're specifically trained for a task tied to a disability.
+**Is a therapy dog the same as a service animal for tax purposes?** No. Service animals trained to perform specific tasks for a diagnosed disability qualify as a medical expense under [IRS Publication 502](https://www.irs.gov/publications/p502). Therapy and emotional support animals generally don't meet that standard unless they're specifically trained for a task tied to a disability.
 
-**Can a small business deduct a guard dog's food and vet bills?**
-Yes, if the dog is genuinely used to protect business property, such as a warehouse or storage yard, and the business can document that use. The costs are treated as ordinary and necessary business expenses, separate from personal pet ownership.
+**Can a small business deduct a guard dog's food and vet bills?** Yes, if the dog is genuinely used to protect business property, such as a warehouse or storage yard, and the business can document that use. The costs are treated as ordinary and necessary business expenses, separate from personal pet ownership.
 
-**Do I need to depreciate a dog I bought specifically for my business?**
-Often, yes. If a dog was purchased specifically for a business role, such as guarding or working, the purchase price may need to be treated as a depreciable business asset rather than a one-time expense. This is a detail worth confirming with your accountant before filing.
+**Do I need to depreciate a dog I bought specifically for my business?** Often, yes. If a dog was purchased specifically for a business role, such as guarding or working, the purchase price may need to be treated as a depreciable business asset rather than a one-time expense. This is a detail worth confirming with your accountant before filing.
 
 If you're a business owner in Minnesota, Wisconsin, or anywhere nationwide trying to sort out which of your operating costs, animal-related or otherwise, actually qualify as deductions, [schedule a consultation](/contact) with our team in Stillwater. We've been helping service-based businesses and entrepreneurs get their deductions right since 2005, and it's a lot cheaper to ask before you file than to defend it after.
