@@ -73,16 +73,12 @@ For business owners already juggling entity structure and quarterly estimates, a
 
 ## Common Questions
 
-**What is the IRS 14-day rule for a second home?**
-If you rent your second home for 14 days or fewer during the tax year, you don't report that rental income on your return, no matter the amount collected, and you keep the standard mortgage interest and property tax deductions available to any personal residence.
+**What is the IRS 14-day rule for a second home?** If you rent your second home for 14 days or fewer during the tax year, you don't report that rental income on your return, no matter the amount collected, and you keep the standard mortgage interest and property tax deductions available to any personal residence.
 
-**Is renting out my vacation home considered a business?**
-Not automatically. It becomes a reportable rental activity once you exceed 14 rental days, but whether losses are deductible depends on your personal-use days relative to rental days, tracked under the rules in [IRS Publication 527](https://www.irs.gov/publications/p527).
+**Is renting out my vacation home considered a business?** Not automatically. It becomes a reportable rental activity once you exceed 14 rental days, but whether losses are deductible depends on your personal-use days relative to rental days, tracked under the rules in [IRS Publication 527](https://www.irs.gov/publications/p527).
 
-**Should I buy a second home as an investment property instead of a personal one?**
-That depends on how you plan to use it. Treating it as an investment property with minimal personal use (under 14 days or 10% of rental days) opens up full deductions and depreciation, but it also means genuinely limiting your own time there, which many owners find harder in practice than on paper.
+**Should I buy a second home as an investment property instead of a personal one?** That depends on how you plan to use it. Treating it as an investment property with minimal personal use (under 14 days or 10% of rental days) opens up full deductions and depreciation, but it also means genuinely limiting your own time there, which many owners find harder in practice than on paper.
 
-**Do I need to report rental income if I only rent a few weekends a year?**
-If total rental days stay at 14 or fewer for the year, no. Once you exceed 14 days, all of that rental income becomes reportable, even the portion collected during those first 14 days.
+**Do I need to report rental income if I only rent a few weekends a year?** If total rental days stay at 14 or fewer for the year, no. Once you exceed 14 days, all of that rental income becomes reportable, even the portion collected during those first 14 days.
 
 If you're weighing a second home purchase, already renting one out, or trying to sort out which side of the 14-day line you landed on last year, a conversation before you file beats guessing after. [Contact us](/contact) to talk through the numbers with a CPA who works with business owners and property owners across Minnesota, Wisconsin, and nationwide.
