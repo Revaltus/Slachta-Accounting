@@ -37,14 +37,14 @@ Business owners have a second angle worth considering: pairing a high-deductible
 
 ## FSAs work differently, and timing matters
 
-A Flexible Spending Account also lets you set aside pre-tax dollars for medical costs, but the mechanics are different enough that mixing up the two causes real financial mistakes. FSA elections are capped at $3,200 for 2024, funds are generally forfeited if unused by year end (subject to a limited grace period or carryover your employer may offer), and the account belongs to your employer, not you. If you leave the job, the balance typically doesn't follow you.
+A Flexible Spending Account also lets you set aside pre-tax dollars for medical costs, but the mechanics are different enough that mixing up the two causes real financial mistakes. FSA elections are capped at $3,500 for 2027, funds are generally forfeited if unused by year end (subject to a limited grace period or a carryover of up to $700 into 2028, if your employer's plan offers one), and the account belongs to your employer, not you. If you leave the job, the balance typically doesn't follow you.
 
 | Feature | HSA | FSA |
 |---|---|---|
 | Ownership | Yours, portable | Employer's plan |
 | Rollover | Unlimited, carries forever | Limited or none |
 | Eligibility | Requires high-deductible health plan | Available with most employer plans |
-| Contribution limit | $9,000 family (2027) | $3,200 (2024) |
+| Contribution limit | $9,000 family (2027) | $3,500 (2027) |
 | Investment growth | Tax-free | Not applicable |
 
 An FSA still has a place, especially for predictable annual costs like orthodontia, glasses, or routine prescriptions where you can estimate the spend accurately. The mistake we see most often is treating an FSA like a savings account for unpredictable emergencies. It isn't built for that. If your health plan qualifies you for an HSA instead, that account is the better home for anything tied to an unexpected medical event.
@@ -71,6 +71,6 @@ None of this is a one-time decision. Health plan elections, HSA contribution lev
 
 **Do I need to itemize every year to benefit from the medical expense deduction?** No. You can itemize in a year with heavy medical costs and take the standard deduction in other years. Compare both every filing season, since a single expensive year can make itemizing worthwhile even if the standard deduction wins in typical years.
 
-**What happens to unused FSA funds at the end of the year?** Under standard IRS rules, unused FSA funds are forfeited unless your employer's plan includes a grace period (typically up to 2.5 months) or allows a limited carryover. Check your plan document before year end so you're not leaving money on the table.
+**What happens to unused FSA funds at the end of the year?** Under standard IRS rules, unused FSA funds are forfeited unless your employer's plan includes a grace period (typically up to 2.5 months) or allows a carryover (up to $700 from 2027 into 2028). Check your plan document before year end so you're not leaving money on the table.
 
 If a medical event has already put pressure on your cash flow, or you want your HSA, FSA, and deduction strategy actually coordinated instead of guessed at each spring, [contact Slachta Accounting & Consulting Services](/contact) and we'll walk through what fits your situation.
