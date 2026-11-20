@@ -59,16 +59,12 @@ The clients who handle this well treat long-term care as a line item in retireme
 
 ## Common Questions
 
-**How much does long-term care insurance typically cost?**
-Premiums vary by age, health, and benefit design, but a policy purchased in your late 50s with a moderate daily benefit and inflation protection commonly runs $2,500 to $4,000 a year. Buying earlier, while you're healthier, generally locks in a lower premium than waiting until your late 60s.
+**How much does long-term care insurance typically cost?** Premiums vary by age, health, and benefit design, but a policy purchased in your late 50s with a moderate daily benefit and inflation protection commonly runs $2,500 to $4,000 a year. Buying earlier, while you're healthier, generally locks in a lower premium than waiting until your late 60s.
 
-**Does Medicare pay for nursing home care?**
-Medicare covers only short-term skilled nursing care following a qualifying hospital stay, typically capped around 100 days, and it does not cover the ongoing custodial care that makes up most long-term care needs. That gap is precisely why insurance, VA benefits, or savings need to be lined up separately.
+**Does Medicare pay for nursing home care?** Medicare covers only short-term skilled nursing care following a qualifying hospital stay, typically capped around 100 days, and it does not cover the ongoing custodial care that makes up most long-term care needs. That gap is precisely why insurance, VA benefits, or savings need to be lined up separately.
 
-**Can veterans get help paying for assisted living?**
-Wartime veterans and surviving spouses who meet service, income, and net worth requirements may qualify for the VA's Aid and Attendance benefit, a monthly payment that can be applied toward home care, assisted living, or nursing home costs. Details on eligibility are on the VA's Aid and Attendance and Housebound benefits page.
+**Can veterans get help paying for assisted living?** Wartime veterans and surviving spouses who meet service, income, and net worth requirements may qualify for the VA's Aid and Attendance benefit, a monthly payment that can be applied toward home care, assisted living, or nursing home costs. Details on eligibility are on the VA's Aid and Attendance and Housebound benefits page.
 
-**Are long-term care insurance premiums tax deductible?**
-Premiums for a tax-qualified long-term care policy can count as a deductible medical expense, subject to age-based dollar limits and the 7.5%-of-AGI threshold for itemized medical deductions, as outlined in IRS Publication 502.
+**Are long-term care insurance premiums tax deductible?** Premiums for a tax-qualified long-term care policy can count as a deductible medical expense, subject to age-based dollar limits and the 7.5%-of-AGI threshold for itemized medical deductions, as outlined in IRS Publication 502.
 
 If you're weighing insurance, VA benefits, and savings against each other and want the numbers run against your actual retirement accounts and business structure, [contact us](/contact) and we'll walk through what funding mix fits your situation.
