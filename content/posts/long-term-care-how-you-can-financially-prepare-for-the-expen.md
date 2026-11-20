@@ -17,7 +17,7 @@ answer_block: "Long-term care planning costs are best managed through a blend of
 
 *By Slachta Accounting & Consulting Services LLC, a CPA firm serving clients in Minnesota, Wisconsin and nationwide*
 
-A long-term care event doesn't send a warning text three years ahead of time. It shows up as a fall, a diagnosis, or a spouse who can no longer manage alone, and suddenly a family is choosing a memory care facility on a Tuesday afternoon with no plan for how to pay for it. We work with business owners, dentists, and attorneys across Minnesota and Wisconsin who have built substantial retirement accounts and real estate equity, and most of them have never run the numbers on what a two-year stay in assisted living would do to that plan. This isn't a topic to solve in a crisis. It's a funding decision, and like any funding decision, it works better when it's made years in advance with real numbers instead of guesses.
+x
 
 ## What long-term care actually costs
 
